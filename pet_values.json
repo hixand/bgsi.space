@@ -1,0 +1,5612 @@
+[
+  {
+    "pet_name": "Doggy",
+    "title": "Common",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/doggy.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_doggy.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Kitty",
+    "title": "Common",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/kitty.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_kitty.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Bunny",
+    "title": "Unique",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/bunny.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_bunny.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Bear",
+    "title": "Rare",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/bear.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_bear.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "King Doggy",
+    "title": "Secret",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/king_doggy.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_king_doggy.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_king_doggy.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_king_doggy.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Mouse",
+    "title": "Common",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/mouse.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_mouse.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Wolf",
+    "title": "Common",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/wolf.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_wolf.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Fox",
+    "title": "Unique",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/fox.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_fox.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Polar Bear",
+    "title": "Rare",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/polar_bear.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_polar_bear.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Panda",
+    "title": "Epic",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/panda.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_panda.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Ice Kitty",
+    "title": "Common",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/ice_kitty.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_ice_kitty.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Deer",
+    "title": "Common",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/deer.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_deer.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Ice Wolf",
+    "title": "Unique",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/ice_wolf.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_ice_wolf.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Piggy",
+    "title": "Rare",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/piggy.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_piggy.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Ice Deer",
+    "title": "Rare",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/ice_deer.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_ice_deer.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Ice Dragon",
+    "title": "Epic",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/ice_dragon.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_ice_dragon.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Golem",
+    "title": "Common",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/golem.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_golem.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Dinosaur",
+    "title": "Common",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/dinosaur.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_dinosaur.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Ruby Golem",
+    "title": "Unique",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/ruby_golem.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_ruby_golem.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Dragon",
+    "title": "Rare",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/dragon.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_dragon.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Dark Dragon",
+    "title": "Epic",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/dark_dragon.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_dark_dragon.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Emerald Golem",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/emerald_golem.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_emerald_golem.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_emerald_golem.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_emerald_golem.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Magma Doggy",
+    "title": "Common",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/magma_doggy.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_magma_doggy.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Magma Deer",
+    "title": "Unique",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/magma_deer.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_magma_deer.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Magma Fox",
+    "title": "Unique",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/magma_fox.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_magma_fox.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Magma Bear",
+    "title": "Rare",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/magma_bear.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_magma_bear.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Demon",
+    "title": "Epic",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/demon.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_demon.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Inferno Dragon",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/inferno_dragon.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_inferno_dragon.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_inferno_dragon.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_inferno_dragon.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Cave Bat",
+    "title": "Common",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/cave_bat.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_cave_bat.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Dark Bat",
+    "title": "Unique",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/dark_bat.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_dark_bat.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Angel",
+    "title": "Rare",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/angel.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_angel.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Emerald Bat",
+    "title": "Epic",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/emerald_bat.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_emerald_bat.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Unicorn",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/unicorn.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_unicorn.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_unicorn.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_unicorn.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Flying Pig",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/flying_pig.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_flying_pig.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_flying_pig.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_flying_pig.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Space Mouse",
+    "title": "Common",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/space_mouse.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_space_mouse.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Space Bull",
+    "title": "Unique",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/space_bull.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_space_bull.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Lunar Fox",
+    "title": "Rare",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/lunar_fox.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_lunar_fox.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Lunarcorn",
+    "title": "Epic",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/lunarcorn.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_lunarcorn.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Lunar Serpent",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/lunar_serpent.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_lunar_serpent.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_lunar_serpent.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_lunar_serpent.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Electra",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/electra.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_electra.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_electra.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_electra.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Void Kitty",
+    "title": "Common",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/void_kitty.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_void_kitty.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Void Bat",
+    "title": "Unique",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/void_bat.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_void_bat.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Void Demon",
+    "title": "Epic",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/void_demon.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_void_demon.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Dark Phoenix",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/dark_phoenix.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_dark_phoenix.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_dark_phoenix.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_dark_phoenix.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Neon Elemental",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/neon_elemental.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_neon_elemental.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_neon_elemental.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_neon_elemental.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "NULLVoid",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/nullvoid.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_nullvoid.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_nullvoid.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_nullvoid.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Hell Piggy",
+    "title": "Common",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/hell_piggy.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_hell_piggy.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Hell Dragon",
+    "title": "Unique",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/hell_dragon.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_hell_dragon.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Hell Crawler",
+    "title": "Rare",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/hell_crawler.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_hell_crawler.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Inferno Demon",
+    "title": "Epic",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/inferno_demon.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_inferno_demon.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Inferno Cube",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/inferno_cube.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_inferno_cube.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_inferno_cube.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_inferno_cube.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Virus",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/virus.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_virus.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_virus.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_virus.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Demon Doggy",
+    "title": "Common",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/demon_doggy.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_demon_doggy.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Skeletal Deer",
+    "title": "Unique",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/skeletal_deer.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_skeletal_deer.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Night Crawler",
+    "title": "Rare",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/night_crawler.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_night_crawler.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Hell Bat",
+    "title": "Epic",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/hell_bat.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_hell_bat.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Green Hydra",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/green_hydra.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_green_hydra.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_green_hydra.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_green_hydra.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Demonic Hydra",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/demonic_hydra.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_demonic_hydra.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_demonic_hydra.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_demonic_hydra.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "The Overlord",
+    "title": "Secret",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/the_overlord.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_the_overlord.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_the_overlord.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_the_overlord.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Red Golem",
+    "title": "Common",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/red_golem.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_red_golem.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Orange Deer",
+    "title": "Unique",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/orange_deer.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_orange_deer.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Yellow Fox",
+    "title": "Rare",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/yellow_fox.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_yellow_fox.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Green Angel",
+    "title": "Epic",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/green_angel.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_green_angel.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Hexarium",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/hexarium.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_hexarium.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_hexarium.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_hexarium.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Rainbow Shock",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/rainbow_shock.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_rainbow_shock.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_rainbow_shock.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_rainbow_shock.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Manny",
+    "title": "Rare",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/manny.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_manny.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Manicorn",
+    "title": "Epic",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/manicorn.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_manicorn.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Sigma Serpent",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/sigma_serpent.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_sigma_serpent.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_sigma_serpent.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_sigma_serpent.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Manarium",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/manarium.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_manarium.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_manarium.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_manarium.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "MAN FACE GOD",
+    "title": "Secret",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/man_face_god.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_man_face_god.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_man_face_god.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_man_face_god.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Bunnnny",
+    "title": "Common",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/bunnnny.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_bunnnny.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Long Kitty",
+    "title": "Rare",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/long_kitty.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_long_kitty.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "DOOF",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/doof.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_doof.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_doof.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_doof.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "ROUND",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/round.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_round.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_round.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_round.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Silly Doggy",
+    "title": "Secret",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/silly_doggy.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_silly_doggy.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_silly_doggy.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_silly_doggy.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Bronze Bunny",
+    "title": "Common",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/bronze_bunny.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_bronze_bunny.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Silver Fox",
+    "title": "Unique",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/silver_fox.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_silver_fox.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Golden Dragon",
+    "title": "Epic",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/golden_dragon.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_golden_dragon.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Diamond Serpent",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/diamond_serpent.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_diamond_serpent.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_diamond_serpent.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_diamond_serpent.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Diamond Hexarium",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/diamond_hexarium.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_diamond_hexarium.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_diamond_hexarium.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_diamond_hexarium.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "King Pufferfish",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/king_pufferfish.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_king_pufferfish.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_king_pufferfish.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_king_pufferfish.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Royal Trophy",
+    "title": "Secret",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/royal_trophy.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_royal_trophy.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_royal_trophy.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_royal_trophy.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Paper Doggy",
+    "title": "Common",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/paper_doggy.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_paper_doggy.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Paper Bunny",
+    "title": "Unique",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/paper_bunny.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_paper_bunny.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Chubby Bunny",
+    "title": "Rare",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/chubby_bunny.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_chubby_bunny.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Hatchling",
+    "title": "Epic",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/hatchling.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_hatchling.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Sweet Treat",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/sweet_treat.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_sweet_treat.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_sweet_treat.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_sweet_treat.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Rainbow Marshmellow",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/rainbow_marshmellow.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_rainbow_marshmellow.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_rainbow_marshmellow.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_rainbow_marshmellow.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Giant Chocolate Chicken",
+    "title": "Secret",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/giant_chocolate_chicken.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_giant_chocolate_chicken.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_giant_chocolate_chicken.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_giant_chocolate_chicken.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Bunny Doggy",
+    "title": "Common",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/bunny_doggy.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_bunny_doggy.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Egg Bunny",
+    "title": "Unique",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/egg_bunny.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_egg_bunny.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Angel Bunny",
+    "title": "Epic",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/angel_bunny.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_angel_bunny.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Seraphic Bunny",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/seraphic_bunny.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_seraphic_bunny.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_seraphic_bunny.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_seraphic_bunny.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Ethereal Bunny",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/ethereal_bunny.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_ethereal_bunny.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_ethereal_bunny.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_ethereal_bunny.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Cardinal Bunny",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/cardinal_bunny.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_cardinal_bunny.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_cardinal_bunny.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_cardinal_bunny.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Easter Basket",
+    "title": "Secret",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/easter_basket.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_easter_basket.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_easter_basket.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_easter_basket.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Bow Bunny",
+    "title": "Common",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/bow_bunny.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_bow_bunny.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Easter Egg",
+    "title": "Unique",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/easter_egg.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_easter_egg.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Flying Bunny",
+    "title": "Epic",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/flying_bunny.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_flying_bunny.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Easter Serpent",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/easter_serpent.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_easter_serpent.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_easter_serpent.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_easter_serpent.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Dualcorn",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/dualcorn.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_dualcorn.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_dualcorn.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_dualcorn.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Holy Egg",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/holy_egg.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_holy_egg.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_holy_egg.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_holy_egg.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Godly Gem",
+    "title": "Secret",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/godly_gem.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_godly_gem.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_godly_gem.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_godly_gem.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Dementor",
+    "title": "Secret",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/dementor.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_dementor.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_dementor.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_dementor.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Enlightened Kitty",
+    "title": "Rare",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/enlightened_kitty.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_enlightened_kitty.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Judgement",
+    "title": "Epic",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/judgement.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_judgement.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Ophanim",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/ophanim.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_ophanim.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_ophanim.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_ophanim.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Seraph",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/seraph.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_seraph.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_seraph.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_seraph.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Competitor Doggy",
+    "title": "Rare",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/competitor_doggy.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_competitor_doggy.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Golden Golem",
+    "title": "Epic",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/golden_golem.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_golden_golem.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Parasite",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/parasite.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_parasite.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_parasite.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_parasite.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Starlight",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/starlight.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_starlight.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_starlight.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_starlight.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Overseer",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/overseer.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_overseer.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_overseer.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_overseer.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Lunar Deity",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/lunar_deity.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_lunar_deity.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Solar Deity",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/solar_deity.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_solar_deity.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Crescent Empress",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/crescent_empress.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_crescent_empress.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_crescent_empress.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_crescent_empress.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Avernus",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/avernus.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_avernus.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_avernus.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_avernus.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Midas",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/midas.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_midas.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_midas.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_midas.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Dowodle",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/dowodle.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_dowodle.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Beta TV",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/beta_tv.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_beta_tv.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Infernus",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/infernus.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_infernus.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Dark Serpent",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/dark_serpent.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_dark_serpent.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Electra Hydra",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/electra_hydra.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_electra_hydra.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Enraged Phoenix",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/enraged_phoenix.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_enraged_phoenix.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Elite Challenger",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/elite_challenger.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_elite_challenger.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Elite Soul",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/elite_soul.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_elite_soul.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_elite_soul.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_elite_soul.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Easter Fluffle",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/easter_fluffle.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_easter_fluffle.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Chocolate Bunny",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/chocolate_bunny.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_chocolate_bunny.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_chocolate_bunny.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_chocolate_bunny.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Flying Gem",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/flying_gem.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_flying_gem.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Patronus",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/patronus.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_patronus.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_patronus.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_patronus.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Abyssal Dragon",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/abyssal_dragon.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_abyssal_dragon.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_abyssal_dragon.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_abyssal_dragon.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Hacker Prism",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/hacker_prism.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_hacker_prism.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_hacker_prism.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_hacker_prism.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Trio Cube",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/trio_cube.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_trio_cube.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_trio_cube.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_trio_cube.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Holy Shock",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/holy_shock.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_holy_shock.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Evil Shock",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/evil_shock.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_evil_shock.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Sunburst",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/sunburst.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_sunburst.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_sunburst.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_sunburst.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Moonburst",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/moonburst.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_moonburst.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_moonburst.png",
+        "exist": 0,
+        "value": 75,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_moonburst.png",
+        "exist": 0,
+        "value": 100,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Umbra",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/umbra.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_umbra.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Kitsune",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/kitsune.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_kitsune.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Demonic Dogcat",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/demonic_dogcat.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_demonic_dogcat.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Rainbow Blitz",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/rainbow_blitz.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_rainbow_blitz.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "King Soul",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/king_soul.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_king_soul.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "pet_name": "Discord Imp",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/discord_imp.png",
+        "exist": 0,
+        "value": 25,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_discord_imp.png",
+        "exist": 0,
+        "value": 50,
+        "demand": "normal",
+        "rarity": "Low",
+        "date": "",
+        "limited_pet": false,
+        "trend": "stable",
+        "latest_edit": "2025-05-15T18:00:00Z"
+      }
+    ]
+  }
+]
