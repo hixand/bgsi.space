@@ -1,0 +1,1170 @@
+[
+  {
+    "egg_id": "common",
+    "egg_name": "Common Egg",
+    "egg_price": 10,
+    "egg_currency": "coins",
+    "egg_image": "https://hixand.xyz/common_egg.webp",
+    "pets": [
+      {
+        "name": "Doggy",
+        "image": "https://hixand.xyz/doggy.png",
+        "title": "Common",
+        "chance": "40%"
+      },
+      {
+        "name": "Kitty",
+        "image": "https://hixand.xyz/kitty.png",
+        "title": "Common",
+        "chance": "30%"
+      },
+      {
+        "name": "Bunny",
+        "image": "https://hixand.xyz/bunny.png",
+        "title": "Unique",
+        "chance": "25%"
+      },
+      {
+        "name": "Bear",
+        "image": "https://hixand.xyz/bear.png",
+        "title": "Rare",
+        "chance": "5%"
+      },
+      {
+        "name": "King Doggy",
+        "image": "https://hixand.xyz/king_doggy.png",
+        "title": "Secret",
+        "chance": "0.000001%"
+      }
+    ],
+    "date": ""
+  },
+  {
+    "egg_id": "spotted",
+    "egg_name": "Spotted Egg",
+    "egg_price": 110,
+    "egg_currency": "coins",
+    "egg_image": "https://hixand.xyz/spotted_egg.webp",
+    "pets": [
+      {
+        "name": "Mouse",
+        "image": "https://hixand.xyz/mouse.png",
+        "title": "Common",
+        "chance": "40%"
+      },
+      {
+        "name": "Wolf",
+        "image": "https://hixand.xyz/wolf.png",
+        "title": "Common",
+        "chance": "25%"
+      },
+      {
+        "name": "Fox",
+        "image": "https://hixand.xyz/fox.png",
+        "title": "Unique",
+        "chance": "20%"
+      },
+      {
+        "name": "Polar Bear",
+        "image": "https://hixand.xyz/polar_bear.png",
+        "title": "Rare",
+        "chance": "10%"
+      },
+      {
+        "name": "Panda",
+        "image": "https://hixand.xyz/panda.png",
+        "title": "Epic",
+        "chance": "5%"
+      }
+    ],
+    "date": ""
+  },
+  {
+    "egg_id": "iceshard",
+    "egg_name": "Iceshard Egg",
+    "egg_price": 450,
+    "egg_currency": "coins",
+    "egg_image": "https://hixand.xyz/iceshard_egg.webp",
+    "pets": [
+      {
+        "name": "Ice Kitty",
+        "image": "https://hixand.xyz/ice_kitty.png",
+        "title": "Common",
+        "chance": "30%"
+      },
+      {
+        "name": "Deer",
+        "image": "https://hixand.xyz/deer.png",
+        "title": "Common",
+        "chance": "25%"
+      },
+      {
+        "name": "Ice Wolf",
+        "image": "https://hixand.xyz/ice_wolf.png",
+        "title": "Unique",
+        "chance": "20%"
+      },
+      {
+        "name": "Piggy",
+        "image": "https://hixand.xyz/piggy.png",
+        "title": "Rare",
+        "chance": "14%"
+      },
+      {
+        "name": "Ice Deer",
+        "image": "https://hixand.xyz/ice_deer.png",
+        "title": "Rare",
+        "chance": "8%"
+      },
+      {
+        "name": "Ice Dragon",
+        "image": "https://hixand.xyz/ice_dragon.png",
+        "title": "Epic",
+        "chance": "3%"
+      }
+    ],
+    "date": ""
+  },
+  {
+    "egg_id": "spikey",
+    "egg_name": "Spikey Egg",
+    "egg_price": 5000,
+    "egg_currency": "coins",
+    "egg_image": "https://hixand.xyz/spikey_egg.webp",
+    "pets": [
+      {
+        "name": "Golem",
+        "image": "https://hixand.xyz/golem.png",
+        "title": "Common",
+        "chance": "30%"
+      },
+      {
+        "name": "Dinosaur",
+        "image": "https://hixand.xyz/dinosaur.png",
+        "title": "Common",
+        "chance": "30%"
+      },
+      {
+        "name": "Ruby Golem",
+        "image": "https://hixand.xyz/ruby_golem.png",
+        "title": "Unique",
+        "chance": "20%"
+      },
+      {
+        "name": "Dragon",
+        "image": "https://hixand.xyz/dragon.png",
+        "title": "Rare",
+        "chance": "12%"
+      },
+      {
+        "name": "Dark Dragon",
+        "image": "https://hixand.xyz/dark_dragon.png",
+        "title": "Epic",
+        "chance": "6.5%"
+      },
+      {
+        "name": "Emerald Golem",
+        "image": "https://hixand.xyz/emerald_golem.png",
+        "title": "Legendary",
+        "chance": "0.5%"
+      }
+    ],
+    "date": ""
+  },
+  {
+    "egg_id": "magma",
+    "egg_name": "Magma Egg",
+    "egg_price": 15000,
+    "egg_currency": "coins",
+    "egg_image": "https://hixand.xyz/magma_egg.webp",
+    "pets": [
+      {
+        "name": "Magma Doggy",
+        "image": "https://hixand.xyz/magma_doggy.png",
+        "title": "Common",
+        "chance": "45%"
+      },
+      {
+        "name": "Magma Deer",
+        "image": "https://hixand.xyz/magma_deer.png",
+        "title": "Unique",
+        "chance": "30.5%"
+      },
+      {
+        "name": "Magma Fox",
+        "image": "https://hixand.xyz/magma_fox.png",
+        "title": "Unique",
+        "chance": "15%"
+      },
+      {
+        "name": "Magma Bear",
+        "image": "https://hixand.xyz/magma_bear.png",
+        "title": "Rare",
+        "chance": "7%"
+      },
+      {
+        "name": "Demon",
+        "image": "https://hixand.xyz/demon.png",
+        "title": "Epic",
+        "chance": "2.25%"
+      },
+      {
+        "name": "Inferno Dragon",
+        "image": "https://hixand.xyz/inferno_dragon.png",
+        "title": "Legendary",
+        "chance": "0.25%"
+      }
+    ],
+    "date": ""
+  },
+  {
+    "egg_id": "crystal",
+    "egg_name": "Crystal Egg",
+    "egg_price": 75000,
+    "egg_currency": "coins",
+    "egg_image": "https://hixand.xyz/crystal_egg.webp",
+    "pets": [
+      {
+        "name": "Cave Bat",
+        "image": "https://hixand.xyz/cave_bat.png",
+        "title": "Common",
+        "chance": "60%"
+      },
+      {
+        "name": "Dark Bat",
+        "image": "https://hixand.xyz/dark_bat.png",
+        "title": "Unique",
+        "chance": "29.9%"
+      },
+      {
+        "name": "Angel",
+        "image": "https://hixand.xyz/angel.png",
+        "title": "Rare",
+        "chance": "7%"
+      },
+      {
+        "name": "Emerald Bat",
+        "image": "https://hixand.xyz/emerald_bat.png",
+        "title": "Epic",
+        "chance": "2.25%"
+      },
+      {
+        "name": "Unicorn",
+        "image": "https://hixand.xyz/unicorn.png",
+        "title": "Legendary",
+        "chance": "0.25%"
+      },
+      {
+        "name": "Flying Pig",
+        "image": "https://hixand.xyz/flying_pig.png",
+        "title": "Legendary",
+        "chance": "0.1%"
+      }
+    ],
+    "date": ""
+  },
+  {
+    "egg_id": "lunar",
+    "egg_name": "Lunar Egg",
+    "egg_price": 100000,
+    "egg_currency": "coins",
+    "egg_image": "https://hixand.xyz/lunar_egg.webp",
+    "pets": [
+      {
+        "name": "Space Mouse",
+        "image": "https://hixand.xyz/space_mouse.png",
+        "title": "Common",
+        "chance": "60%"
+      },
+      {
+        "name": "Space Bull",
+        "image": "https://hixand.xyz/space_bull.png",
+        "title": "Unique",
+        "chance": "29.9%"
+      },
+      {
+        "name": "Lunar Fox",
+        "image": "https://hixand.xyz/lunar_fox.png",
+        "title": "Rare",
+        "chance": "7%"
+      },
+      {
+        "name": "Lunarcorn",
+        "image": "https://hixand.xyz/lunarcorn.png",
+        "title": "Epic",
+        "chance": "2.25%"
+      },
+      {
+        "name": "Lunar Serpent",
+        "image": "https://hixand.xyz/lunar_serpent.png",
+        "title": "Legendary",
+        "chance": "0.25%"
+      },
+      {
+        "name": "Electra",
+        "image": "https://hixand.xyz/electra.png",
+        "title": "Legendary",
+        "chance": "0.1%"
+      }
+    ],
+    "date": ""
+  },
+  {
+    "egg_id": "void",
+    "egg_name": "Void Egg",
+    "egg_price": 175000,
+    "egg_currency": "coins",
+    "egg_image": "https://hixand.xyz/void_egg.webp",
+    "pets": [
+      {
+        "name": "Void Kitty",
+        "image": "https://hixand.xyz/void_kitty.png",
+        "title": "Common",
+        "chance": "65%"
+      },
+      {
+        "name": "Void Bat",
+        "image": "https://hixand.xyz/void_bat.png",
+        "title": "Unique",
+        "chance": "31.9%"
+      },
+      {
+        "name": "Void Demon",
+        "image": "https://hixand.xyz/void_demon.png",
+        "title": "Epic",
+        "chance": "2.25%"
+      },
+      {
+        "name": "Dark Phoenix",
+        "image": "https://hixand.xyz/dark_phoenix.png",
+        "title": "Legendary",
+        "chance": "0.05%"
+      },
+      {
+        "name": "Neon Elemental",
+        "image": "https://hixand.xyz/neon_elemental.png",
+        "title": "Legendary",
+        "chance": "0.02%"
+      },
+      {
+        "name": "NULLVoid",
+        "image": "https://hixand.xyz/nullvoid.png",
+        "title": "Legendary",
+        "chance": "0.0001%"
+      }
+    ],
+    "date": ""
+  },
+  {
+    "egg_id": "hell",
+    "egg_name": "Hell Egg",
+    "egg_price": 300000,
+    "egg_currency": "coins",
+    "egg_image": "https://hixand.xyz/hell_egg.webp",
+    "pets": [
+      {
+        "name": "Hell Piggy",
+        "image": "https://hixand.xyz/hell_piggy.png",
+        "title": "Common",
+        "chance": "60%"
+      },
+      {
+        "name": "Hell Dragon",
+        "image": "https://hixand.xyz/hell_dragon.png",
+        "title": "Unique",
+        "chance": "29.9%"
+      },
+      {
+        "name": "Hell Crawler",
+        "image": "https://hixand.xyz/hell_crawler.png",
+        "title": "Rare",
+        "chance": "7%"
+      },
+      {
+        "name": "Inferno Demon",
+        "image": "https://hixand.xyz/inferno_demon.png",
+        "title": "Epic",
+        "chance": "2.25%"
+      },
+      {
+        "name": "Inferno Cube",
+        "image": "https://hixand.xyz/inferno_cube.png",
+        "title": "Legendary",
+        "chance": "0.025%"
+      },
+      {
+        "name": "Virus",
+        "image": "https://hixand.xyz/virus.png",
+        "title": "Legendary",
+        "chance": "0.002%"
+      }
+    ],
+    "date": ""
+  },
+  {
+    "egg_id": "nightmare",
+    "egg_name": "Nightmare Egg",
+    "egg_price": 900000,
+    "egg_currency": "coins",
+    "egg_image": "https://hixand.xyz/nightmare_egg.webp",
+    "pets": [
+      {
+        "name": "Demon Doggy",
+        "image": "https://hixand.xyz/demon_doggy.png",
+        "title": "Common",
+        "chance": "60%"
+      },
+      {
+        "name": "Skeletal Deer",
+        "image": "https://hixand.xyz/skeletal_deer.png",
+        "title": "Unique",
+        "chance": "29.9%"
+      },
+      {
+        "name": "Night Crawler",
+        "image": "https://hixand.xyz/night_crawler.png",
+        "title": "Rare",
+        "chance": "7%"
+      },
+      {
+        "name": "Hell Bat",
+        "image": "https://hixand.xyz/hell_bat.png",
+        "title": "Epic",
+        "chance": "2.25%"
+      },
+      {
+        "name": "Green Hydra",
+        "image": "https://hixand.xyz/green_hydra.png",
+        "title": "Legendary",
+        "chance": "0.004%"
+      },
+      {
+        "name": "Demonic Hydra",
+        "image": "https://hixand.xyz/demonic_hydra.png",
+        "title": "Legendary",
+        "chance": "0.001%"
+      },
+      {
+        "name": "The Overlord",
+        "image": "https://hixand.xyz/the_overlord.png",
+        "title": "Secret",
+        "chance": "0.000002%"
+      }
+    ],
+    "date": ""
+  },
+  {
+    "egg_id": "rainbow",
+    "egg_name": "Rainbow Egg",
+    "egg_price": 1500000,
+    "egg_currency": "coins",
+    "egg_image": "https://hixand.xyz/rainbow_egg.webp",
+    "pets": [
+      {
+        "name": "Red Golem",
+        "image": "https://hixand.xyz/red_golem.png",
+        "title": "Common",
+        "chance": "60%"
+      },
+      {
+        "name": "Orange Deer",
+        "image": "https://hixand.xyz/orange_deer.png",
+        "title": "Unique",
+        "chance": "29.9%"
+      },
+      {
+        "name": "Yellow Fox",
+        "image": "https://hixand.xyz/yellow_fox.png",
+        "title": "Rare",
+        "chance": "7%"
+      },
+      {
+        "name": "Green Angel",
+        "image": "https://hixand.xyz/green_angel.png",
+        "title": "Epic",
+        "chance": "2.25%"
+      },
+      {
+        "name": "Hexarium",
+        "image": "https://hixand.xyz/hexarium.png",
+        "title": "Legendary",
+        "chance": "0.001%"
+      },
+      {
+        "name": "Rainbow Shock",
+        "image": "https://hixand.xyz/rainbow_shock.png",
+        "title": "Legendary",
+        "chance": "0.0005%"
+      }
+    ],
+    "date": ""
+  },
+  {
+    "egg_id": "aura",
+    "egg_name": "Aura Egg",
+    "egg_price": 7800000,
+    "egg_currency": "coins",
+    "egg_image": "https://hixand.xyz/aura_egg1.webp",
+    "pets": [
+      {
+        "name": "Manny",
+        "image": "https://hixand.xyz/manny.png",
+        "title": "Rare",
+        "chance": "65%"
+      },
+      {
+        "name": "Manicorn",
+        "image": "https://hixand.xyz/manicorn.png",
+        "title": "Epic",
+        "chance": "30%"
+      },
+      {
+        "name": "Sigma Serpent",
+        "image": "https://hixand.xyz/sigma_serpent.png",
+        "title": "Legendary",
+        "chance": "0.01%"
+      },
+      {
+        "name": "Manarium",
+        "image": "https://hixand.xyz/manarium.png",
+        "title": "Legendary",
+        "chance": "0.005%"
+      },
+      {
+        "name": "MAN FACE GOD",
+        "image": "https://hixand.xyz/man_face_god.png",
+        "title": "Secret",
+        "chance": "0.0001%"
+      }
+    ],
+    "date": ""
+  },
+  {
+    "egg_id": "silly",
+    "egg_name": "Silly Egg",
+    "egg_price": 10000000,
+    "egg_currency": "coins",
+    "egg_image": "https://hixand.xyz/silly_egg.webp",
+    "pets": [
+      {
+        "name": "Bunnnny",
+        "image": "https://hixand.xyz/bunnnny.png",
+        "title": "Common",
+        "chance": "65%"
+      },
+      {
+        "name": "Long Kitty",
+        "image": "https://hixand.xyz/long_kitty.png",
+        "title": "Rare",
+        "chance": "30%"
+      },
+      {
+        "name": "DOOF",
+        "image": "https://hixand.xyz/doof.png",
+        "title": "Legendary",
+        "chance": "0.01%"
+      },
+      {
+        "name": "ROUND",
+        "image": "https://hixand.xyz/round.png",
+        "title": "Legendary",
+        "chance": "0.0004%"
+      },
+      {
+        "name": "Silly Doggy",
+        "image": "https://hixand.xyz/silly_doggy_:).png",
+        "title": "Secret",
+        "chance": "0.0001%"
+      }
+    ],
+    "date": ""
+  },
+  {
+    "egg_id": "season1",
+    "egg_name": "Season 1 Egg",
+    "egg_price": 0,
+    "egg_currency": "coins",
+    "egg_image": "https://hixand.xyz/season_1_egg.png",
+    "pets": [
+      {
+        "name": "Enlightened Kitty",
+        "image": "https://hixand.xyz/enlightened_kitty.png",
+        "title": "Rare",
+        "chance": "90%"
+      },
+      {
+        "name": "Judgement",
+        "image": "https://hixand.xyz/judgement.png",
+        "title": "Epic",
+        "chance": "10%"
+      },
+      {
+        "name": "Ophanim",
+        "image": "https://hixand.xyz/ophanim.png",
+        "title": "Legendary",
+        "chance": "0.5%"
+      },
+      {
+        "name": "Seraph",
+        "image": "https://hixand.xyz/seraph.png",
+        "title": "Legendary",
+        "chance": "0.01%"
+      }
+    ],
+    "date": ""
+  },
+  {
+    "egg_id": "series1",
+    "egg_name": "Series 1 Egg",
+    "egg_price": 0,
+    "egg_currency": "coins",
+    "egg_image": "https://hixand.xyz/series_1.png",
+    "pets": [
+      {
+        "name": "Competitor Doggy",
+        "image": "https://hixand.xyz/competitor_doggy.png",
+        "title": "Rare",
+        "chance": "90%"
+      },
+      {
+        "name": "Golden Golem",
+        "image": "https://hixand.xyz/golden_golem.png",
+        "title": "Epic",
+        "chance": "9.9%"
+      },
+      {
+        "name": "Parasite",
+        "image": "https://hixand.xyz/parasite.png",
+        "title": "Legendary",
+        "chance": "0.1%"
+      },
+      {
+        "name": "Starlight",
+        "image": "https://hixand.xyz/starlight.png",
+        "title": "Legendary",
+        "chance": "0.01%"
+      },
+      {
+        "name": "Overseer",
+        "image": "https://hixand.xyz/overseer.png",
+        "title": "Legendary",
+        "chance": "0.001%"
+      }
+    ],
+    "date": ""
+  },
+  {
+    "egg_id": "100m",
+    "egg_name": "100M Egg",
+    "egg_price": 1000000,
+    "egg_currency": "coins",
+    "egg_image": "https://hixand.xyz/100m_egg.png",
+    "pets": [
+      {
+        "name": "Bronze Bunny",
+        "image": "https://hixand.xyz/bronze_bunny.png",
+        "title": "Common",
+        "chance": "64%"
+      },
+      {
+        "name": "Silver Fox",
+        "image": "https://hixand.xyz/silver_fox.png",
+        "title": "Unique",
+        "chance": "30%"
+      },
+      {
+        "name": "Golden Dragon",
+        "image": "https://hixand.xyz/golden_dragon.png",
+        "title": "Epic",
+        "chance": "3%"
+      },
+      {
+        "name": "Diamond Serpent",
+        "image": "https://hixand.xyz/diamond_serpent.png",
+        "title": "Legendary",
+        "chance": "0.04%"
+      },
+      {
+        "name": "Diamond Hexarium",
+        "image": "https://hixand.xyz/diamond_hexarium.png",
+        "title": "Legendary",
+        "chance": "0.002%"
+      },
+      {
+        "name": "King Pufferfish",
+        "image": "https://hixand.xyz/king_pufferfish.png",
+        "title": "Legendary",
+        "chance": "0.000125%"
+      },
+      {
+        "name": "Royal Trophy",
+        "image": "https://hixand.xyz/royal_trophy.png",
+        "title": "Secret",
+        "chance": "0.000002%"
+      }
+    ],
+    "date": ""
+  },
+  {
+    "egg_id": "pastel",
+    "egg_name": "Pastel Egg",
+    "egg_price": 1000000,
+    "egg_currency": "coins",
+    "egg_image": "https://hixand.xyz/pastel_egg.png",
+    "pets": [
+      {
+        "name": "Paper Doggy",
+        "image": "https://hixand.xyz/paper_doggy.png",
+        "title": "Common",
+        "chance": "60%"
+      },
+      {
+        "name": "Paper Bunny",
+        "image": "https://hixand.xyz/paper_bunny.png",
+        "title": "Unique",
+        "chance": "29.9%"
+      },
+      {
+        "name": "Chubby Bunny",
+        "image": "https://hixand.xyz/chubby_bunny.png",
+        "title": "Rare",
+        "chance": "7%"
+      },
+      {
+        "name": "Hatchling",
+        "image": "https://hixand.xyz/hatchling.png",
+        "title": "Epic",
+        "chance": "2.25%"
+      },
+      {
+        "name": "Sweet Treat",
+        "image": "https://hixand.xyz/sweet_treat.png",
+        "title": "Legendary",
+        "chance": "0.004%"
+      },
+      {
+        "name": "Rainbow Marshmellow",
+        "image": "https://hixand.xyz/rainbow_marshmallow.png",
+        "title": "Legendary",
+        "chance": "0.0008%"
+      },
+      {
+        "name": "Giant Chocolate Chicken",
+        "image": "https://hixand.xyz/giant_chocolate_chicken.png",
+        "title": "Secret",
+        "chance": "0.000002%"
+      }
+    ],
+    "date": ""
+  },
+  {
+    "egg_id": "bunny",
+    "egg_name": "Bunny Egg",
+    "egg_price": 1800000,
+    "egg_currency": "coins",
+    "egg_image": " https://hixand.xyz/bunny_egg.png",
+    "pets": [
+      {
+        "name": "Bunny Doggy",
+        "image": "https://hixand.xyz/bunny_doggy.png",
+        "title": "Common",
+        "chance": "64%"
+      },
+      {
+        "name": "Egg Bunny",
+        "image": "https://hixand.xyz/egg_bunny.png",
+        "title": "Unique",
+        "chance": "30%"
+      },
+      {
+        "name": "Angel Bunny",
+        "image": "https://hixand.xyz/angel_bunny.png",
+        "title": "Epic",
+        "chance": "3%"
+      },
+      {
+        "name": "Seraphic Bunny",
+        "image": "https://hixand.xyz/seraphic_bunny.png",
+        "title": "Legendary",
+        "chance": "0.02%"
+      },
+      {
+        "name": "Ethereal Bunny",
+        "image": "https://hixand.xyz/ethereal_bunny.png",
+        "title": "Legendary",
+        "chance": "0.001%"
+      },
+      {
+        "name": "Cardinal Bunny",
+        "image": "https://hixand.xyz/cardinal_bunny.png",
+        "title": "Legendary",
+        "chance": "0.0001%"
+      },
+      {
+        "name": "Easter Basket",
+        "image": "https://hixand.xyz/easter_basket.png",
+        "title": "Secret",
+        "chance": "0.000001%"
+      }
+    ],
+    "date": ""
+  },
+  {
+    "egg_id": "throwback",
+    "egg_name": "Throwback Egg",
+    "egg_price": 1400000,
+    "egg_currency": "coins",
+    "egg_image": "https://hixand.xyz/throwback_egg.png",
+    "pets": [
+      {
+        "name": "Bow Bunny",
+        "image": "https://hixand.xyz/bow_bunny.png",
+        "title": "Common",
+        "chance": "64%"
+      },
+      {
+        "name": "Easter Egg",
+        "image": "https://hixand.xyz/easter_egg.png",
+        "title": "Unique",
+        "chance": "30%"
+      },
+      {
+        "name": "Flying Bunny",
+        "image": "https://hixand.xyz/flying_bunny.png",
+        "title": "Epic",
+        "chance": "3%"
+      },
+      {
+        "name": "Easter Serpent",
+        "image": "https://hixand.xyz/easter_serpent.png",
+        "title": "Legendary",
+        "chance": "0.04%"
+      },
+      {
+        "name": "Dualcorn",
+        "image": "https://hixand.xyz/dualcorn.png",
+        "title": "Legendary",
+        "chance": "0.002%"
+      },
+      {
+        "name": "Holy Egg",
+        "image": "https://hixand.xyz/holy_egg.png",
+        "title": "Legendary",
+        "chance": "0.0002%"
+      },
+      {
+        "name": "Godly Gem",
+        "image": "https://hixand.xyz/godly_gem.png",
+        "title": "Secret",
+        "chance": "0.0000004%"
+      },
+      {
+        "name": "Dementor",
+        "image": "https://hixand.xyz/dementor.png",
+        "title": "Secret",
+        "chance": "0.0000001%"
+      }
+    ],
+    "date": ""
+  },
+  {
+    "egg_id": "robux",
+    "egg_name": "Robux Egg",
+    "egg_price": 0,
+    "egg_currency": "coins",
+    "egg_image": "https://hixand.xyz/robux-egg.png",
+    "pets": [
+      {
+        "name": "Dowodle",
+        "image": "https://hixand.xyz/dowodle.png",
+        "title": "Legendary",
+        "chance": "-"
+      },
+      {
+        "name": "Beta TV",
+        "image": "https://hixand.xyz/beta_tv.png",
+        "title": "Legendary",
+        "chance": "-"
+      },
+      {
+        "name": "Infernus",
+        "image": "https://hixand.xyz/infernus.png",
+        "title": "Legendary",
+        "chance": "-"
+      },
+      {
+        "name": "Dark Serpent",
+        "image": "https://hixand.xyz/dark_serpent.png",
+        "title": "Legendary",
+        "chance": "-"
+      },
+      {
+        "name": "Electra Hydra",
+        "image": "https://hixand.xyz/electra_hydra.png",
+        "title": "Legendary",
+        "chance": "-"
+      },
+      {
+        "name": "Enraged Phoenix",
+        "image": "https://hixand.xyz/enraged_phoenix.png",
+        "title": "Legendary",
+        "chance": "-"
+      },
+      {
+        "name": "Flying Gem",
+        "image": "https://hixand.xyz/flying_gem.png",
+        "title": "Legendary",
+        "chance": "10%"
+      }
+    ],
+    "date": ""
+  },
+  {
+    "egg_id": "mystery_box",
+    "egg_name": "Mystery Box",
+    "egg_price": 0,
+    "egg_currency": "coins",
+    "egg_image": "https://i.ibb.co/1tHsRm75/Mystery-Box.webp",
+    "pets": [
+      {
+        "name": "Sunburst",
+        "image": "https://hixand.xyz/sunburst.png",
+        "title": "Legendary",
+        "chance": "0.02%"
+      },
+      {
+        "name": "Moonburst",
+        "image": "https://hixand.xyz/moonburst.png",
+        "title": "Legendary",
+        "chance": "0.01%"
+      }
+    ],
+    "date": ""
+  },
+  {
+    "egg_id": "wheel_spin",
+    "egg_name": "Wheel Spin",
+    "egg_price": 0,
+    "egg_currency": "coins",
+    "egg_image": "https://i.ibb.co/PsNfLJTG/Spin-Ticket.webp",
+    "pets": [
+      {
+        "name": "Umbra",
+        "image": "https://hixand.xyz/umbra.png",
+        "title": "Legendary",
+        "chance": "0.1%"
+      }
+    ],
+    "date": ""
+  },
+  {
+    "egg_id": "golden_chest",
+    "egg_name": "Golden Chest",
+    "egg_price": 0,
+    "egg_currency": "coins",
+    "egg_image": "https://i.ibb.co/NnW3PsKK/Rift-Chest.webp",
+    "pets": [
+      {
+        "name": "Abyssal Dragon",
+        "image": "https://hixand.xyz/abyssal_dragon.png",
+        "title": "Legendary",
+        "chance": "0.025%"
+      }
+    ],
+    "date": ""
+  },
+  {
+    "egg_id": "royal_chest",
+    "egg_name": "Royal Chest",
+    "egg_price": 0,
+    "egg_currency": "coins",
+    "egg_image": "https://i.ibb.co/N2RFYt8n/Royal-Chest.webp",
+    "pets": [
+      {
+        "name": "Hacker Prism",
+        "image": "https://hixand.xyz/hacker_prism.png",
+        "title": "Legendary",
+        "chance": "0.025%"
+      }
+    ],
+    "date": ""
+  },
+  {
+    "egg_id": "playtime",
+    "egg_name": "Playtime",
+    "egg_price": 0,
+    "egg_currency": "coins",
+    "egg_image": "https://i.ibb.co/wF5mGK6C/Playtime-Icon.webp",
+    "pets": [
+      {
+        "name": "Kitsune",
+        "image": "https://hixand.xyz/kitsune.png",
+        "title": "Legendary",
+        "chance": "0.002%"
+      }
+    ],
+    "date": ""
+  },
+  {
+    "egg_id": "golden_box",
+    "egg_name": "Golden Box",
+    "egg_price": 0,
+    "egg_currency": "coins",
+    "egg_image": "https://i.ibb.co/xKN0yHDd/Golden-Box.webp",
+    "pets": [
+      {
+        "name": "Midas",
+        "image": "https://hixand.xyz/midas.png",
+        "title": "Legendary",
+        "chance": "0.1%"
+      },
+      {
+        "name": "Patronus",
+        "image": "https://hixand.xyz/patronus.png",
+        "title": "Legendary",
+        "chance": "0.01%"
+      }
+    ],
+    "date": ""
+  },
+  {
+    "egg_id": "quest",
+    "egg_name": "Quest",
+    "egg_price": 0,
+    "egg_currency": "coins",
+    "egg_image": "https://i.ibb.co/pjqMpRqS/Quests-Icon.webp",
+    "pets": [
+      {
+        "name": "Holy Shock",
+        "image": "https://hixand.xyz/holy_shock.png",
+        "title": "Legendary",
+        "chance": "-"
+      },
+      {
+        "name": "Evil Shock",
+        "image": "https://hixand.xyz/evil_shock.png",
+        "title": "Legendary",
+        "chance": "-"
+      },
+      {
+        "name": "Demonic Dogcat",
+        "image": "https://hixand.xyz/demonic_dogcat.png",
+        "title": "Legendary",
+        "chance": "-"
+      },
+      {
+        "name": "Rainbow Blitz",
+        "image": "https://hixand.xyz/rainbow_blitz.png",
+        "title": "Legendary",
+        "chance": "-"
+      },
+      {
+        "name": "King Soul",
+        "image": "https://hixand.xyz/king_soul.png",
+        "title": "Legendary",
+        "chance": "-"
+      },
+      {
+        "name": "Discord Imp",
+        "image": "https://hixand.xyz/discord_imp.png",
+        "title": "Legendary",
+        "chance": "-"
+      }
+    ],
+    "date": ""
+  },
+  {
+    "egg_id": "index",
+    "egg_name": "Index",
+    "egg_price": 0,
+    "egg_currency": "coins",
+    "egg_image": "https://i.ibb.co/Mx6CBpBZ/Index-Icon.webp",
+    "pets": [
+      {
+        "name": "Easter Fluffle",
+        "image": "https://hixand.xyz/easter_fluffle.png",
+        "title": "Legendary",
+        "chance": "-"
+      },
+      {
+        "name": "Chocolate Bunny",
+        "image": "https://hixand.xyz/chocolate_bunny.png",
+        "title": "Legendary",
+        "chance": "-"
+      },
+      {
+        "name": "Trio Cube",
+        "image": "https://hixand.xyz/trio_cube.png",
+        "title": "Legendary",
+        "chance": "-"
+      }
+    ],
+    "date": ""
+  },
+  {
+    "egg_id": "event",
+    "egg_name": "Event",
+    "egg_price": 0,
+    "egg_currency": "coins",
+    "egg_image": "https://i.ibb.co/9H2FmvvQ/Big-Bell.webp",
+    "pets": [
+      {
+        "name": "Elite Challenger",
+        "image": "https://hixand.xyz/elite_challenger.png",
+        "title": "Legendary",
+        "chance": "-"
+      },
+      {
+        "name": "Elite Soul",
+        "image": "https://hixand.xyz/elite_soul.png",
+        "title": "Legendary",
+        "chance": "-"
+      }
+    ],
+    "date": ""
+  },
+  {
+    "egg_id": "bubble_pass",
+    "egg_name": "Bubble Pass",
+    "egg_price": 0,
+    "egg_currency": "coins",
+    "egg_image": "https://i.ibb.co/bjm3wd09/Bubble-Pass-Icon.webp",
+    "pets": [
+      {
+        "name": "Lunar Deity",
+        "image": "https://hixand.xyz/lunar_deity.png",
+        "title": "Legendary",
+        "chance": "100%"
+      },
+      {
+        "name": "Solar Deity",
+        "image": "https://hixand.xyz/solar_deity.png",
+        "title": "Legendary",
+        "chance": "100%"
+      }
+    ],
+    "date": ""
+  },
+  {
+    "egg_id": "infinity_pass",
+    "egg_name": "Infinity Pass",
+    "egg_price": 0,
+    "egg_currency": "coins",
+    "egg_image": "https://i.ibb.co/Kxc8dmY3/Infinity-Pass-Icon.webp",
+    "pets": [
+      {
+        "name": "Crescent Empress",
+        "image": "https://hixand.xyz/crescent_empress.png",
+        "title": "Legendary",
+        "chance": "0.1%"
+      },
+      {
+        "name": "Avernus",
+        "image": "https://hixand.xyz/avernus.png",
+        "title": "Legendary",
+        "chance": "0.005%"
+      }
+    ],
+    "date": ""
+  }
+]
