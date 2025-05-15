@@ -1,0 +1,7911 @@
+[
+  {
+    "pet_name": "Doggy",
+    "egg_id": "common",
+    "bubbles": 1,
+    "coins": 1.1,
+    "gems": 0,
+    "chance": "40%",
+    "title": "Common",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/doggy.png",
+        "stats": {
+          "base": {
+            "bubbles": 1.0,
+            "coins": 1.1,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 1.35,
+            "coins": 1.49,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_doggy.png",
+        "stats": {
+          "base": {
+            "bubbles": 1.5,
+            "coins": 1.65,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 1.85,
+            "coins": 2.04,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Kitty",
+    "egg_id": "common",
+    "bubbles": 1,
+    "coins": 1.1,
+    "gems": 0,
+    "chance": "30%",
+    "title": "Common",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/kitty.png",
+        "stats": {
+          "base": {
+            "bubbles": 1.0,
+            "coins": 1.1,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 1.35,
+            "coins": 1.49,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_kitty.png",
+        "stats": {
+          "base": {
+            "bubbles": 1.5,
+            "coins": 1.65,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 1.85,
+            "coins": 2.04,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Bunny",
+    "egg_id": "common",
+    "bubbles": 2,
+    "coins": 1.2,
+    "gems": 0,
+    "chance": "25%",
+    "title": "Unique",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/bunny.png",
+        "stats": {
+          "base": {
+            "bubbles": 2.0,
+            "coins": 1.2,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 2.7,
+            "coins": 1.62,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_bunny.png",
+        "stats": {
+          "base": {
+            "bubbles": 3.0,
+            "coins": 1.8,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 3.7,
+            "coins": 2.22,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Bear",
+    "egg_id": "common",
+    "bubbles": 2,
+    "coins": 1.5,
+    "gems": 0,
+    "chance": "5%",
+    "title": "Rare",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/bear.png",
+        "stats": {
+          "base": {
+            "bubbles": 2.0,
+            "coins": 1.5,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 2.7,
+            "coins": 2.03,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_bear.png",
+        "stats": {
+          "base": {
+            "bubbles": 3.0,
+            "coins": 2.25,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 3.7,
+            "coins": 2.78,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "King Doggy",
+    "egg_id": "common",
+    "bubbles": 2750,
+    "coins": 3300,
+    "gems": 50,
+    "chance": "0.000001%",
+    "title": "Secret",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/king_doggy.png",
+        "stats": {
+          "base": {
+            "bubbles": 2750,
+            "coins": 3300,
+            "gems": 50.0
+          },
+          "max": {
+            "bubbles": 3713,
+            "coins": 4455,
+            "gems": 67.5
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_king_doggy.png",
+        "stats": {
+          "base": {
+            "bubbles": 4125,
+            "coins": 4950,
+            "gems": 75.0
+          },
+          "max": {
+            "bubbles": 5088,
+            "coins": 6105,
+            "gems": 92.5
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_king_doggy.png",
+        "stats": {
+          "base": {
+            "bubbles": 4812,
+            "coins": 5775,
+            "gems": 87.5
+          },
+          "max": {
+            "bubbles": 5775,
+            "coins": 6930,
+            "gems": 105
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_king_doggy.png",
+        "stats": {
+          "base": {
+            "bubbles": 6188,
+            "coins": 7425,
+            "gems": 112
+          },
+          "max": {
+            "bubbles": 7150,
+            "coins": 8580,
+            "gems": 130
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Mouse",
+    "egg_id": "spotted",
+    "bubbles": 2,
+    "coins": 2,
+    "gems": 0,
+    "chance": "40%",
+    "title": "Common",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/mouse.png",
+        "stats": {
+          "base": {
+            "bubbles": 2.0,
+            "coins": 2.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 2.7,
+            "coins": 2.7,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_mouse.png",
+        "stats": {
+          "base": {
+            "bubbles": 3.0,
+            "coins": 3.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 3.7,
+            "coins": 3.7,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Wolf",
+    "egg_id": "spotted",
+    "bubbles": 2.1,
+    "coins": 2,
+    "gems": 0,
+    "chance": "25%",
+    "title": "Common",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/wolf.png",
+        "stats": {
+          "base": {
+            "bubbles": 2.1,
+            "coins": 2.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 2.84,
+            "coins": 2.7,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_wolf.png",
+        "stats": {
+          "base": {
+            "bubbles": 3.15,
+            "coins": 3.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 3.89,
+            "coins": 3.7,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Fox",
+    "egg_id": "spotted",
+    "bubbles": 3,
+    "coins": 2.2,
+    "gems": 0,
+    "chance": "20%",
+    "title": "Unique",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/fox.png",
+        "stats": {
+          "base": {
+            "bubbles": 3.0,
+            "coins": 2.2,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 4.05,
+            "coins": 2.97,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_fox.png",
+        "stats": {
+          "base": {
+            "bubbles": 4.5,
+            "coins": 3.3,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 5.55,
+            "coins": 4.07,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Polar Bear",
+    "egg_id": "spotted",
+    "bubbles": 4,
+    "coins": 2.5,
+    "gems": 0,
+    "chance": "10%",
+    "title": "Rare",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/polar_bear.png",
+        "stats": {
+          "base": {
+            "bubbles": 4.0,
+            "coins": 2.5,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 5.4,
+            "coins": 3.38,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_polar_bear.png",
+        "stats": {
+          "base": {
+            "bubbles": 6.0,
+            "coins": 3.75,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 7.4,
+            "coins": 4.62,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Panda",
+    "egg_id": "spotted",
+    "bubbles": 7,
+    "coins": 3,
+    "gems": 0,
+    "chance": "5%",
+    "title": "Epic",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/panda.png",
+        "stats": {
+          "base": {
+            "bubbles": 7.0,
+            "coins": 3.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 9.45,
+            "coins": 4.05,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_panda.png",
+        "stats": {
+          "base": {
+            "bubbles": 10.5,
+            "coins": 4.5,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 12.95,
+            "coins": 5.55,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Ice Kitty",
+    "egg_id": "iceshard",
+    "bubbles": 4,
+    "coins": 3,
+    "gems": 0,
+    "chance": "30%",
+    "title": "Common",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/ice_kitty.png",
+        "stats": {
+          "base": {
+            "bubbles": 4.0,
+            "coins": 3.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 5.4,
+            "coins": 4.05,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_ice_kitty.png",
+        "stats": {
+          "base": {
+            "bubbles": 6.0,
+            "coins": 4.5,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 7.4,
+            "coins": 5.55,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Deer",
+    "egg_id": "iceshard",
+    "bubbles": 5,
+    "coins": 3.5,
+    "gems": 0,
+    "chance": "25%",
+    "title": "Common",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/deer.png",
+        "stats": {
+          "base": {
+            "bubbles": 5.0,
+            "coins": 3.5,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 6.75,
+            "coins": 4.73,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_deer.png",
+        "stats": {
+          "base": {
+            "bubbles": 7.5,
+            "coins": 5.25,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 9.25,
+            "coins": 6.48,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Ice Wolf",
+    "egg_id": "iceshard",
+    "bubbles": 7,
+    "coins": 5,
+    "gems": 0,
+    "chance": "20%",
+    "title": "Unique",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/ice_wolf.png",
+        "stats": {
+          "base": {
+            "bubbles": 7.0,
+            "coins": 5.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 9.45,
+            "coins": 6.75,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_ice_wolf.png",
+        "stats": {
+          "base": {
+            "bubbles": 10.5,
+            "coins": 7.5,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 12.95,
+            "coins": 9.25,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Piggy",
+    "egg_id": "iceshard",
+    "bubbles": 11,
+    "coins": 6,
+    "gems": 0,
+    "chance": "14%",
+    "title": "Rare",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/piggy.png",
+        "stats": {
+          "base": {
+            "bubbles": 11.0,
+            "coins": 6.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 14.85,
+            "coins": 8.1,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_piggy.png",
+        "stats": {
+          "base": {
+            "bubbles": 16.5,
+            "coins": 9.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 20.35,
+            "coins": 11.1,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Ice Deer",
+    "egg_id": "iceshard",
+    "bubbles": 11,
+    "coins": 7,
+    "gems": 0,
+    "chance": "8%",
+    "title": "Rare",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/ice_deer.png",
+        "stats": {
+          "base": {
+            "bubbles": 11.0,
+            "coins": 7.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 14.85,
+            "coins": 9.45,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_ice_deer.png",
+        "stats": {
+          "base": {
+            "bubbles": 16.5,
+            "coins": 10.5,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 20.35,
+            "coins": 12.95,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Ice Dragon",
+    "egg_id": "iceshard",
+    "bubbles": 15,
+    "coins": 10,
+    "gems": 0,
+    "chance": "3%",
+    "title": "Epic",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/ice_dragon.png",
+        "stats": {
+          "base": {
+            "bubbles": 15.0,
+            "coins": 10.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 20.25,
+            "coins": 13.5,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_ice_dragon.png",
+        "stats": {
+          "base": {
+            "bubbles": 22.5,
+            "coins": 15.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 27.75,
+            "coins": 18.5,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Golem",
+    "egg_id": "spikey",
+    "bubbles": 3,
+    "coins": 4,
+    "gems": 0,
+    "chance": "30%",
+    "title": "Common",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/golem.png",
+        "stats": {
+          "base": {
+            "bubbles": 3.0,
+            "coins": 4.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 4.05,
+            "coins": 5.4,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_golem.png",
+        "stats": {
+          "base": {
+            "bubbles": 4.5,
+            "coins": 6.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 5.55,
+            "coins": 7.4,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Dinosaur",
+    "egg_id": "spikey",
+    "bubbles": 3,
+    "coins": 2,
+    "gems": 0,
+    "chance": "30%",
+    "title": "Common",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/dinosaur.png",
+        "stats": {
+          "base": {
+            "bubbles": 3.0,
+            "coins": 2.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 4.05,
+            "coins": 2.7,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_dinosaur.png",
+        "stats": {
+          "base": {
+            "bubbles": 4.5,
+            "coins": 3.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 5.55,
+            "coins": 3.7,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Ruby Golem",
+    "egg_id": "spikey",
+    "bubbles": 4,
+    "coins": 5,
+    "gems": 0,
+    "chance": "20%",
+    "title": "Unique",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/ruby_golem.png",
+        "stats": {
+          "base": {
+            "bubbles": 4.0,
+            "coins": 5.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 5.4,
+            "coins": 6.75,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_ruby_golem.png",
+        "stats": {
+          "base": {
+            "bubbles": 6.0,
+            "coins": 7.5,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 7.4,
+            "coins": 9.25,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Dragon",
+    "egg_id": "spikey",
+    "bubbles": 12,
+    "coins": 8,
+    "gems": 0,
+    "chance": "12%",
+    "title": "Rare",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/dragon.png",
+        "stats": {
+          "base": {
+            "bubbles": 12.0,
+            "coins": 8.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 16.2,
+            "coins": 10.8,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_dragon.png",
+        "stats": {
+          "base": {
+            "bubbles": 18.0,
+            "coins": 12.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 22.2,
+            "coins": 14.8,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Dark Dragon",
+    "egg_id": "spikey",
+    "bubbles": 16,
+    "coins": 12,
+    "gems": 0,
+    "chance": "6.5%",
+    "title": "Epic",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/dark_dragon.png",
+        "stats": {
+          "base": {
+            "bubbles": 16.0,
+            "coins": 12.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 21.6,
+            "coins": 16.2,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_dark_dragon.png",
+        "stats": {
+          "base": {
+            "bubbles": 24.0,
+            "coins": 18.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 29.6,
+            "coins": 22.2,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Emerald Golem",
+    "egg_id": "spikey",
+    "bubbles": 45,
+    "coins": 25,
+    "gems": 0,
+    "chance": "0.5%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/emerald_golem.png",
+        "stats": {
+          "base": {
+            "bubbles": 45.0,
+            "coins": 25.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 60.75,
+            "coins": 33.75,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_emerald_golem.png",
+        "stats": {
+          "base": {
+            "bubbles": 67.5,
+            "coins": 37.5,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 83.25,
+            "coins": 46.25,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_emerald_golem.png",
+        "stats": {
+          "base": {
+            "bubbles": 78.75,
+            "coins": 43.75,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 94.5,
+            "coins": 52.5,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_emerald_golem.png",
+        "stats": {
+          "base": {
+            "bubbles": 101,
+            "coins": 56.25,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 117,
+            "coins": 65.0,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Magma Doggy",
+    "egg_id": "magma",
+    "bubbles": 11,
+    "coins": 6,
+    "gems": 0,
+    "chance": "45%",
+    "title": "Common",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/magma_doggy.png",
+        "stats": {
+          "base": {
+            "bubbles": 11.0,
+            "coins": 6.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 14.85,
+            "coins": 8.1,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_magma_doggy.png",
+        "stats": {
+          "base": {
+            "bubbles": 16.5,
+            "coins": 9.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 20.35,
+            "coins": 11.1,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Magma Deer",
+    "egg_id": "magma",
+    "bubbles": 12,
+    "coins": 8,
+    "gems": 0,
+    "chance": "30.5%",
+    "title": "Unique",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/magma_deer.png",
+        "stats": {
+          "base": {
+            "bubbles": 12.0,
+            "coins": 8.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 16.2,
+            "coins": 10.8,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_magma_deer.png",
+        "stats": {
+          "base": {
+            "bubbles": 18.0,
+            "coins": 12.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 22.2,
+            "coins": 14.8,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Magma Fox",
+    "egg_id": "magma",
+    "bubbles": 15,
+    "coins": 10,
+    "gems": 0,
+    "chance": "15%",
+    "title": "Unique",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/magma_fox.png",
+        "stats": {
+          "base": {
+            "bubbles": 15.0,
+            "coins": 10.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 20.25,
+            "coins": 13.5,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_magma_fox.png",
+        "stats": {
+          "base": {
+            "bubbles": 22.5,
+            "coins": 15.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 27.75,
+            "coins": 18.5,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Magma Bear",
+    "egg_id": "magma",
+    "bubbles": 18,
+    "coins": 15,
+    "gems": 0,
+    "chance": "7%",
+    "title": "Rare",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/magma_bear.png",
+        "stats": {
+          "base": {
+            "bubbles": 18.0,
+            "coins": 15.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 24.3,
+            "coins": 20.25,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_magma_bear.png",
+        "stats": {
+          "base": {
+            "bubbles": 27.0,
+            "coins": 22.5,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 33.3,
+            "coins": 27.75,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Demon",
+    "egg_id": "magma",
+    "bubbles": 25,
+    "coins": 20,
+    "gems": 0,
+    "chance": "2.25%",
+    "title": "Epic",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/demon.png",
+        "stats": {
+          "base": {
+            "bubbles": 25.0,
+            "coins": 20.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 33.75,
+            "coins": 27.0,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_demon.png",
+        "stats": {
+          "base": {
+            "bubbles": 37.5,
+            "coins": 30.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 46.25,
+            "coins": 37.0,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Inferno Dragon",
+    "egg_id": "magma",
+    "bubbles": 75,
+    "coins": 65,
+    "gems": 1.35,
+    "chance": "0.25%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/inferno_dragon.png",
+        "stats": {
+          "base": {
+            "bubbles": 75.0,
+            "coins": 65.0,
+            "gems": 1.35
+          },
+          "max": {
+            "bubbles": 101,
+            "coins": 87.75,
+            "gems": 1.82
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_inferno_dragon.png",
+        "stats": {
+          "base": {
+            "bubbles": 112,
+            "coins": 97.5,
+            "gems": 2.03
+          },
+          "max": {
+            "bubbles": 139,
+            "coins": 120,
+            "gems": 2.5
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_inferno_dragon.png",
+        "stats": {
+          "base": {
+            "bubbles": 131,
+            "coins": 114,
+            "gems": 2.36
+          },
+          "max": {
+            "bubbles": 158,
+            "coins": 136,
+            "gems": 2.84
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_inferno_dragon.png",
+        "stats": {
+          "base": {
+            "bubbles": 169,
+            "coins": 146,
+            "gems": 3.04
+          },
+          "max": {
+            "bubbles": 195,
+            "coins": 169,
+            "gems": 3.51
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Cave Bat",
+    "egg_id": "crystal",
+    "bubbles": 14,
+    "coins": 9,
+    "gems": 0,
+    "chance": "60%",
+    "title": "Common",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/cave_bat.png",
+        "stats": {
+          "base": {
+            "bubbles": 14.0,
+            "coins": 9.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 18.9,
+            "coins": 12.15,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_cave_bat.png",
+        "stats": {
+          "base": {
+            "bubbles": 21.0,
+            "coins": 13.5,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 25.9,
+            "coins": 16.65,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Dark Bat",
+    "egg_id": "crystal",
+    "bubbles": 25,
+    "coins": 12,
+    "gems": 0,
+    "chance": "29.9%",
+    "title": "Unique",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/dark_bat.png",
+        "stats": {
+          "base": {
+            "bubbles": 25.0,
+            "coins": 12.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 33.75,
+            "coins": 16.2,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_dark_bat.png",
+        "stats": {
+          "base": {
+            "bubbles": 37.5,
+            "coins": 18.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 46.25,
+            "coins": 22.2,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Angel",
+    "egg_id": "crystal",
+    "bubbles": 35,
+    "coins": 20,
+    "gems": 0,
+    "chance": "7%",
+    "title": "Rare",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/angel.png",
+        "stats": {
+          "base": {
+            "bubbles": 35.0,
+            "coins": 20.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 47.25,
+            "coins": 27.0,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_angel.png",
+        "stats": {
+          "base": {
+            "bubbles": 52.5,
+            "coins": 30.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 64.75,
+            "coins": 37.0,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Emerald Bat",
+    "egg_id": "crystal",
+    "bubbles": 50,
+    "coins": 35,
+    "gems": 0,
+    "chance": "2.25%",
+    "title": "Epic",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/emerald_bat.png",
+        "stats": {
+          "base": {
+            "bubbles": 50.0,
+            "coins": 35.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 67.5,
+            "coins": 47.25,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_emerald_bat.png",
+        "stats": {
+          "base": {
+            "bubbles": 75.0,
+            "coins": 52.5,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 92.5,
+            "coins": 64.75,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Unicorn",
+    "egg_id": "crystal",
+    "bubbles": 155,
+    "coins": 135,
+    "gems": 1.4,
+    "chance": "0.25%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/unicorn.png",
+        "stats": {
+          "base": {
+            "bubbles": 155,
+            "coins": 135,
+            "gems": 1.4
+          },
+          "max": {
+            "bubbles": 209,
+            "coins": 182,
+            "gems": 1.89
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_unicorn.png",
+        "stats": {
+          "base": {
+            "bubbles": 232,
+            "coins": 202,
+            "gems": 2.1
+          },
+          "max": {
+            "bubbles": 287,
+            "coins": 250,
+            "gems": 2.59
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_unicorn.png",
+        "stats": {
+          "base": {
+            "bubbles": 271,
+            "coins": 236,
+            "gems": 2.45
+          },
+          "max": {
+            "bubbles": 326,
+            "coins": 284,
+            "gems": 2.94
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_unicorn.png",
+        "stats": {
+          "base": {
+            "bubbles": 349,
+            "coins": 304,
+            "gems": 3.15
+          },
+          "max": {
+            "bubbles": 403,
+            "coins": 351,
+            "gems": 3.64
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Flying Pig",
+    "egg_id": "crystal",
+    "bubbles": 285,
+    "coins": 310,
+    "gems": 1.7,
+    "chance": "0.1%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/flying_pig.png",
+        "stats": {
+          "base": {
+            "bubbles": 285,
+            "coins": 310,
+            "gems": 1.7
+          },
+          "max": {
+            "bubbles": 385,
+            "coins": 418,
+            "gems": 2.29
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_flying_pig.png",
+        "stats": {
+          "base": {
+            "bubbles": 428,
+            "coins": 465,
+            "gems": 2.55
+          },
+          "max": {
+            "bubbles": 527,
+            "coins": 574,
+            "gems": 3.15
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_flying_pig.png",
+        "stats": {
+          "base": {
+            "bubbles": 499,
+            "coins": 542,
+            "gems": 2.98
+          },
+          "max": {
+            "bubbles": 598,
+            "coins": 651,
+            "gems": 3.57
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_flying_pig.png",
+        "stats": {
+          "base": {
+            "bubbles": 641,
+            "coins": 698,
+            "gems": 3.82
+          },
+          "max": {
+            "bubbles": 741,
+            "coins": 806,
+            "gems": 4.42
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Space Mouse",
+    "egg_id": "lunar",
+    "bubbles": 16,
+    "coins": 14,
+    "gems": 0,
+    "chance": "60%",
+    "title": "Common",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/space_mouse.png",
+        "stats": {
+          "base": {
+            "bubbles": 16.0,
+            "coins": 14.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 21.6,
+            "coins": 18.9,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_space_mouse.png",
+        "stats": {
+          "base": {
+            "bubbles": 24.0,
+            "coins": 21.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 29.6,
+            "coins": 25.9,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Space Bull",
+    "egg_id": "lunar",
+    "bubbles": 30,
+    "coins": 20,
+    "gems": 0,
+    "chance": "29.9%",
+    "title": "Unique",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/space_bull.png",
+        "stats": {
+          "base": {
+            "bubbles": 30.0,
+            "coins": 20.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 40.5,
+            "coins": 27.0,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_space_bull.png",
+        "stats": {
+          "base": {
+            "bubbles": 45.0,
+            "coins": 30.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 55.5,
+            "coins": 37.0,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Lunar Fox",
+    "egg_id": "lunar",
+    "bubbles": 45,
+    "coins": 32,
+    "gems": 0,
+    "chance": "7%",
+    "title": "Rare",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/lunar_fox.png",
+        "stats": {
+          "base": {
+            "bubbles": 45.0,
+            "coins": 32.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 60.75,
+            "coins": 43.2,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_lunar_fox.png",
+        "stats": {
+          "base": {
+            "bubbles": 67.5,
+            "coins": 48.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 83.25,
+            "coins": 59.2,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Lunarcorn",
+    "egg_id": "lunar",
+    "bubbles": 70,
+    "coins": 55,
+    "gems": 0,
+    "chance": "2.25%",
+    "title": "Epic",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/lunarcorn.png",
+        "stats": {
+          "base": {
+            "bubbles": 70.0,
+            "coins": 55.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 94.5,
+            "coins": 74.25,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_lunarcorn.png",
+        "stats": {
+          "base": {
+            "bubbles": 105,
+            "coins": 82.5,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 130,
+            "coins": 102,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Lunar Serpent",
+    "egg_id": "lunar",
+    "bubbles": 195,
+    "coins": 220,
+    "gems": 2,
+    "chance": "0.25%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/lunar_serpent.png",
+        "stats": {
+          "base": {
+            "bubbles": 195,
+            "coins": 220,
+            "gems": 2.0
+          },
+          "max": {
+            "bubbles": 263,
+            "coins": 297,
+            "gems": 2.7
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_lunar_serpent.png",
+        "stats": {
+          "base": {
+            "bubbles": 292,
+            "coins": 330,
+            "gems": 3.0
+          },
+          "max": {
+            "bubbles": 361,
+            "coins": 407,
+            "gems": 3.7
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_lunar_serpent.png",
+        "stats": {
+          "base": {
+            "bubbles": 341,
+            "coins": 385,
+            "gems": 3.5
+          },
+          "max": {
+            "bubbles": 410,
+            "coins": 462,
+            "gems": 4.2
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_lunar_serpent.png",
+        "stats": {
+          "base": {
+            "bubbles": 439,
+            "coins": 495,
+            "gems": 4.5
+          },
+          "max": {
+            "bubbles": 507,
+            "coins": 572,
+            "gems": 5.2
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Electra",
+    "egg_id": "lunar",
+    "bubbles": 295,
+    "coins": 395,
+    "gems": 4,
+    "chance": "0.1%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/electra.png",
+        "stats": {
+          "base": {
+            "bubbles": 295,
+            "coins": 395,
+            "gems": 4.0
+          },
+          "max": {
+            "bubbles": 398,
+            "coins": 533,
+            "gems": 5.4
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_electra.png",
+        "stats": {
+          "base": {
+            "bubbles": 442,
+            "coins": 592,
+            "gems": 6.0
+          },
+          "max": {
+            "bubbles": 546,
+            "coins": 731,
+            "gems": 7.4
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_electra.png",
+        "stats": {
+          "base": {
+            "bubbles": 516,
+            "coins": 691,
+            "gems": 7.0
+          },
+          "max": {
+            "bubbles": 620,
+            "coins": 830,
+            "gems": 8.4
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_electra.png",
+        "stats": {
+          "base": {
+            "bubbles": 664,
+            "coins": 889,
+            "gems": 9.0
+          },
+          "max": {
+            "bubbles": 767,
+            "coins": 1027,
+            "gems": 10.4
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Void Kitty",
+    "egg_id": "void",
+    "bubbles": 18,
+    "coins": 16,
+    "gems": 0,
+    "chance": "65%",
+    "title": "Common",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/void_kitty.png",
+        "stats": {
+          "base": {
+            "bubbles": 18.0,
+            "coins": 16.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 24.3,
+            "coins": 21.6,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_void_kitty.png",
+        "stats": {
+          "base": {
+            "bubbles": 27.0,
+            "coins": 24.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 33.3,
+            "coins": 29.6,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Void Bat",
+    "egg_id": "void",
+    "bubbles": 43,
+    "coins": 35,
+    "gems": 0,
+    "chance": "31.9%",
+    "title": "Unique",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/void_bat.png",
+        "stats": {
+          "base": {
+            "bubbles": 43.0,
+            "coins": 35.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 58.05,
+            "coins": 47.25,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_void_bat.png",
+        "stats": {
+          "base": {
+            "bubbles": 64.5,
+            "coins": 52.5,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 79.55,
+            "coins": 64.75,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Void Demon",
+    "egg_id": "void",
+    "bubbles": 85,
+    "coins": 70,
+    "gems": 0,
+    "chance": "2.25%",
+    "title": "Epic",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/void_demon.png",
+        "stats": {
+          "base": {
+            "bubbles": 85.0,
+            "coins": 70.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 115,
+            "coins": 94.5,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_void_demon.png",
+        "stats": {
+          "base": {
+            "bubbles": 128,
+            "coins": 105,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 157,
+            "coins": 130,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Dark Phoenix",
+    "egg_id": "void",
+    "bubbles": 350,
+    "coins": 410,
+    "gems": 4.5,
+    "chance": "0.05%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/dark_phoenix.png",
+        "stats": {
+          "base": {
+            "bubbles": 350,
+            "coins": 410,
+            "gems": 4.5
+          },
+          "max": {
+            "bubbles": 473,
+            "coins": 554,
+            "gems": 6.08
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_dark_phoenix.png",
+        "stats": {
+          "base": {
+            "bubbles": 525,
+            "coins": 615,
+            "gems": 6.75
+          },
+          "max": {
+            "bubbles": 648,
+            "coins": 758,
+            "gems": 8.33
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_dark_phoenix.png",
+        "stats": {
+          "base": {
+            "bubbles": 612,
+            "coins": 718,
+            "gems": 7.88
+          },
+          "max": {
+            "bubbles": 735,
+            "coins": 861,
+            "gems": 9.45
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_dark_phoenix.png",
+        "stats": {
+          "base": {
+            "bubbles": 788,
+            "coins": 922,
+            "gems": 10.12
+          },
+          "max": {
+            "bubbles": 910,
+            "coins": 1066,
+            "gems": 11.7
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Neon Elemental",
+    "egg_id": "void",
+    "bubbles": 430,
+    "coins": 500,
+    "gems": 5.5,
+    "chance": "0.02%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/neon_elemental.png",
+        "stats": {
+          "base": {
+            "bubbles": 430,
+            "coins": 500,
+            "gems": 5.5
+          },
+          "max": {
+            "bubbles": 580,
+            "coins": 675,
+            "gems": 7.43
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_neon_elemental.png",
+        "stats": {
+          "base": {
+            "bubbles": 645,
+            "coins": 750,
+            "gems": 8.25
+          },
+          "max": {
+            "bubbles": 796,
+            "coins": 925,
+            "gems": 10.18
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_neon_elemental.png",
+        "stats": {
+          "base": {
+            "bubbles": 752,
+            "coins": 875,
+            "gems": 9.62
+          },
+          "max": {
+            "bubbles": 903,
+            "coins": 1050,
+            "gems": 11.55
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_neon_elemental.png",
+        "stats": {
+          "base": {
+            "bubbles": 968,
+            "coins": 1125,
+            "gems": 12.38
+          },
+          "max": {
+            "bubbles": 1118,
+            "coins": 1300,
+            "gems": 14.3
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "NULLVoid",
+    "egg_id": "void",
+    "bubbles": 1350,
+    "coins": 1850,
+    "gems": 24,
+    "chance": "0.0001%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/nullvoid.png",
+        "stats": {
+          "base": {
+            "bubbles": 1350,
+            "coins": 1850,
+            "gems": 24.0
+          },
+          "max": {
+            "bubbles": 1823,
+            "coins": 2498,
+            "gems": 32.4
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_nullvoid.png",
+        "stats": {
+          "base": {
+            "bubbles": 2025,
+            "coins": 2775,
+            "gems": 36.0
+          },
+          "max": {
+            "bubbles": 2498,
+            "coins": 3422,
+            "gems": 44.4
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_nullvoid.png",
+        "stats": {
+          "base": {
+            "bubbles": 2362,
+            "coins": 3238,
+            "gems": 42.0
+          },
+          "max": {
+            "bubbles": 2835,
+            "coins": 3885,
+            "gems": 50.4
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_nullvoid.png",
+        "stats": {
+          "base": {
+            "bubbles": 3038,
+            "coins": 4162,
+            "gems": 54.0
+          },
+          "max": {
+            "bubbles": 3510,
+            "coins": 4810,
+            "gems": 62.4
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Hell Piggy",
+    "egg_id": "hell",
+    "bubbles": 24,
+    "coins": 20,
+    "gems": 0,
+    "chance": "60%",
+    "title": "Common",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/hell_piggy.png",
+        "stats": {
+          "base": {
+            "bubbles": 24.0,
+            "coins": 20.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 32.4,
+            "coins": 27.0,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_hell_piggy.png",
+        "stats": {
+          "base": {
+            "bubbles": 36.0,
+            "coins": 30.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 44.4,
+            "coins": 37.0,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Hell Dragon",
+    "egg_id": "hell",
+    "bubbles": 45,
+    "coins": 45,
+    "gems": 0,
+    "chance": "29.9%",
+    "title": "Unique",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/hell_dragon.png",
+        "stats": {
+          "base": {
+            "bubbles": 45.0,
+            "coins": 45.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 60.75,
+            "coins": 60.75,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_hell_dragon.png",
+        "stats": {
+          "base": {
+            "bubbles": 67.5,
+            "coins": 67.5,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 83.25,
+            "coins": 83.25,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Hell Crawler",
+    "egg_id": "hell",
+    "bubbles": 75,
+    "coins": 75,
+    "gems": 0,
+    "chance": "7%",
+    "title": "Rare",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/hell_crawler.png",
+        "stats": {
+          "base": {
+            "bubbles": 75.0,
+            "coins": 75.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 101,
+            "coins": 101,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_hell_crawler.png",
+        "stats": {
+          "base": {
+            "bubbles": 112,
+            "coins": 112,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 139,
+            "coins": 139,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Inferno Demon",
+    "egg_id": "hell",
+    "bubbles": 135,
+    "coins": 135,
+    "gems": 0,
+    "chance": "2.25%",
+    "title": "Epic",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/inferno_demon.png",
+        "stats": {
+          "base": {
+            "bubbles": 135,
+            "coins": 135,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 182,
+            "coins": 182,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_inferno_demon.png",
+        "stats": {
+          "base": {
+            "bubbles": 202,
+            "coins": 202,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 250,
+            "coins": 250,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Inferno Cube",
+    "egg_id": "hell",
+    "bubbles": 480,
+    "coins": 520,
+    "gems": 6,
+    "chance": "0.025%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/inferno_cube.png",
+        "stats": {
+          "base": {
+            "bubbles": 480,
+            "coins": 520,
+            "gems": 6.0
+          },
+          "max": {
+            "bubbles": 648,
+            "coins": 702,
+            "gems": 8.1
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_inferno_cube.png",
+        "stats": {
+          "base": {
+            "bubbles": 720,
+            "coins": 780,
+            "gems": 9.0
+          },
+          "max": {
+            "bubbles": 888,
+            "coins": 962,
+            "gems": 11.1
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_inferno_cube.png",
+        "stats": {
+          "base": {
+            "bubbles": 840,
+            "coins": 910,
+            "gems": 10.5
+          },
+          "max": {
+            "bubbles": 1008,
+            "coins": 1092,
+            "gems": 12.6
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_inferno_cube.png",
+        "stats": {
+          "base": {
+            "bubbles": 1080,
+            "coins": 1170,
+            "gems": 13.5
+          },
+          "max": {
+            "bubbles": 1248,
+            "coins": 1352,
+            "gems": 15.6
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Virus",
+    "egg_id": "hell",
+    "bubbles": 785,
+    "coins": 850,
+    "gems": 9,
+    "chance": "0.002%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/virus.png",
+        "stats": {
+          "base": {
+            "bubbles": 785,
+            "coins": 850,
+            "gems": 9.0
+          },
+          "max": {
+            "bubbles": 1060,
+            "coins": 1148,
+            "gems": 12.15
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_virus.png",
+        "stats": {
+          "base": {
+            "bubbles": 1178,
+            "coins": 1275,
+            "gems": 13.5
+          },
+          "max": {
+            "bubbles": 1452,
+            "coins": 1572,
+            "gems": 16.65
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_virus.png",
+        "stats": {
+          "base": {
+            "bubbles": 1374,
+            "coins": 1488,
+            "gems": 15.75
+          },
+          "max": {
+            "bubbles": 1648,
+            "coins": 1785,
+            "gems": 18.9
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_virus.png",
+        "stats": {
+          "base": {
+            "bubbles": 1766,
+            "coins": 1912,
+            "gems": 20.25
+          },
+          "max": {
+            "bubbles": 2041,
+            "coins": 2210,
+            "gems": 23.4
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Demon Doggy",
+    "egg_id": "nightmare",
+    "bubbles": 35,
+    "coins": 32,
+    "gems": 0,
+    "chance": "60%",
+    "title": "Common",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/demon_doggy.png",
+        "stats": {
+          "base": {
+            "bubbles": 35.0,
+            "coins": 32.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 47.25,
+            "coins": 43.2,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_demon_doggy.png",
+        "stats": {
+          "base": {
+            "bubbles": 52.5,
+            "coins": 48.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 64.75,
+            "coins": 59.2,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Skeletal Deer",
+    "egg_id": "nightmare",
+    "bubbles": 50,
+    "coins": 52,
+    "gems": 0,
+    "chance": "29.9%",
+    "title": "Unique",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/skeletal_deer.png",
+        "stats": {
+          "base": {
+            "bubbles": 50.0,
+            "coins": 52.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 67.5,
+            "coins": 70.2,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_skeletal_deer.png",
+        "stats": {
+          "base": {
+            "bubbles": 75.0,
+            "coins": 78.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 92.5,
+            "coins": 96.2,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Night Crawler",
+    "egg_id": "nightmare",
+    "bubbles": 95,
+    "coins": 105,
+    "gems": 0,
+    "chance": "7%",
+    "title": "Rare",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/night_crawler.png",
+        "stats": {
+          "base": {
+            "bubbles": 95.0,
+            "coins": 105,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 128,
+            "coins": 142,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_night_crawler.png",
+        "stats": {
+          "base": {
+            "bubbles": 142,
+            "coins": 158,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 176,
+            "coins": 194,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Hell Bat",
+    "egg_id": "nightmare",
+    "bubbles": 185,
+    "coins": 250,
+    "gems": 0,
+    "chance": "2.25%",
+    "title": "Epic",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/hell_bat.png",
+        "stats": {
+          "base": {
+            "bubbles": 185,
+            "coins": 250,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 250,
+            "coins": 338,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_hell_bat.png",
+        "stats": {
+          "base": {
+            "bubbles": 278,
+            "coins": 375,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 342,
+            "coins": 462,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Green Hydra",
+    "egg_id": "nightmare",
+    "bubbles": 600,
+    "coins": 710,
+    "gems": 10,
+    "chance": "0.004%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/green_hydra.png",
+        "stats": {
+          "base": {
+            "bubbles": 600,
+            "coins": 710,
+            "gems": 10.0
+          },
+          "max": {
+            "bubbles": 810,
+            "coins": 959,
+            "gems": 13.5
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_green_hydra.png",
+        "stats": {
+          "base": {
+            "bubbles": 900,
+            "coins": 1065,
+            "gems": 15.0
+          },
+          "max": {
+            "bubbles": 1110,
+            "coins": 1314,
+            "gems": 18.5
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_green_hydra.png",
+        "stats": {
+          "base": {
+            "bubbles": 1050,
+            "coins": 1242,
+            "gems": 17.5
+          },
+          "max": {
+            "bubbles": 1260,
+            "coins": 1491,
+            "gems": 21.0
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_green_hydra.png",
+        "stats": {
+          "base": {
+            "bubbles": 1350,
+            "coins": 1598,
+            "gems": 22.5
+          },
+          "max": {
+            "bubbles": 1560,
+            "coins": 1846,
+            "gems": 26.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Demonic Hydra",
+    "egg_id": "nightmare",
+    "bubbles": 925,
+    "coins": 1200,
+    "gems": 15,
+    "chance": "0.001%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/demonic_hydra.png",
+        "stats": {
+          "base": {
+            "bubbles": 925,
+            "coins": 1200,
+            "gems": 15.0
+          },
+          "max": {
+            "bubbles": 1249,
+            "coins": 1620,
+            "gems": 20.25
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_demonic_hydra.png",
+        "stats": {
+          "base": {
+            "bubbles": 1388,
+            "coins": 1800,
+            "gems": 22.5
+          },
+          "max": {
+            "bubbles": 1711,
+            "coins": 2220,
+            "gems": 27.75
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_demonic_hydra.png",
+        "stats": {
+          "base": {
+            "bubbles": 1619,
+            "coins": 2100,
+            "gems": 26.25
+          },
+          "max": {
+            "bubbles": 1942,
+            "coins": 2520,
+            "gems": 31.5
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_demonic_hydra.png",
+        "stats": {
+          "base": {
+            "bubbles": 2081,
+            "coins": 2700,
+            "gems": 33.75
+          },
+          "max": {
+            "bubbles": 2405,
+            "coins": 3120,
+            "gems": 39.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "The Overlord",
+    "egg_id": "nightmare",
+    "bubbles": 2100,
+    "coins": 2900,
+    "gems": 40,
+    "chance": "0.000002%",
+    "title": "Secret",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/the_overlord.png",
+        "stats": {
+          "base": {
+            "bubbles": 2100,
+            "coins": 2900,
+            "gems": 40.0
+          },
+          "max": {
+            "bubbles": 2835,
+            "coins": 3915,
+            "gems": 54.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_the_overlord.png",
+        "stats": {
+          "base": {
+            "bubbles": 3150,
+            "coins": 4350,
+            "gems": 60.0
+          },
+          "max": {
+            "bubbles": 3885,
+            "coins": 5365,
+            "gems": 74.0
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_the_overlord.png",
+        "stats": {
+          "base": {
+            "bubbles": 3675,
+            "coins": 5075,
+            "gems": 70.0
+          },
+          "max": {
+            "bubbles": 4410,
+            "coins": 6090,
+            "gems": 84.0
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_the_overlord.png",
+        "stats": {
+          "base": {
+            "bubbles": 4725,
+            "coins": 6525,
+            "gems": 90.0
+          },
+          "max": {
+            "bubbles": 5460,
+            "coins": 7540,
+            "gems": 104
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Red Golem",
+    "egg_id": "rainbow",
+    "bubbles": 45,
+    "coins": 58,
+    "gems": 1.2,
+    "chance": "60%",
+    "title": "Common",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/red_golem.png",
+        "stats": {
+          "base": {
+            "bubbles": 45.0,
+            "coins": 58.0,
+            "gems": 1.2
+          },
+          "max": {
+            "bubbles": 60.75,
+            "coins": 78.3,
+            "gems": 1.62
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_red_golem.png",
+        "stats": {
+          "base": {
+            "bubbles": 67.5,
+            "coins": 87.0,
+            "gems": 1.8
+          },
+          "max": {
+            "bubbles": 83.25,
+            "coins": 107,
+            "gems": 2.22
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Orange Deer",
+    "egg_id": "rainbow",
+    "bubbles": 82,
+    "coins": 97,
+    "gems": 1.4,
+    "chance": "29.9%",
+    "title": "Unique",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/orange_deer.png",
+        "stats": {
+          "base": {
+            "bubbles": 82.0,
+            "coins": 97.0,
+            "gems": 1.4
+          },
+          "max": {
+            "bubbles": 111,
+            "coins": 131,
+            "gems": 1.89
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_orange_deer.png",
+        "stats": {
+          "base": {
+            "bubbles": 123,
+            "coins": 146,
+            "gems": 2.1
+          },
+          "max": {
+            "bubbles": 152,
+            "coins": 179,
+            "gems": 2.59
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Yellow Fox",
+    "egg_id": "rainbow",
+    "bubbles": 120,
+    "coins": 145,
+    "gems": 1.75,
+    "chance": "7%",
+    "title": "Rare",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/yellow_fox.png",
+        "stats": {
+          "base": {
+            "bubbles": 120,
+            "coins": 145,
+            "gems": 1.75
+          },
+          "max": {
+            "bubbles": 162,
+            "coins": 196,
+            "gems": 2.36
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_yellow_fox.png",
+        "stats": {
+          "base": {
+            "bubbles": 180,
+            "coins": 218,
+            "gems": 2.62
+          },
+          "max": {
+            "bubbles": 222,
+            "coins": 268,
+            "gems": 3.24
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Green Angel",
+    "egg_id": "rainbow",
+    "bubbles": 225,
+    "coins": 285,
+    "gems": 2,
+    "chance": "2.25%",
+    "title": "Epic",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/green_angel.png",
+        "stats": {
+          "base": {
+            "bubbles": 225,
+            "coins": 285,
+            "gems": 2.0
+          },
+          "max": {
+            "bubbles": 304,
+            "coins": 385,
+            "gems": 2.7
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_green_angel.png",
+        "stats": {
+          "base": {
+            "bubbles": 338,
+            "coins": 428,
+            "gems": 3.0
+          },
+          "max": {
+            "bubbles": 416,
+            "coins": 527,
+            "gems": 3.7
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Hexarium",
+    "egg_id": "rainbow",
+    "bubbles": 1025,
+    "coins": 1350,
+    "gems": 16.5,
+    "chance": "0.001%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/hexarium.png",
+        "stats": {
+          "base": {
+            "bubbles": 1025,
+            "coins": 1350,
+            "gems": 16.5
+          },
+          "max": {
+            "bubbles": 1384,
+            "coins": 1823,
+            "gems": 22.28
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_hexarium.png",
+        "stats": {
+          "base": {
+            "bubbles": 1538,
+            "coins": 2025,
+            "gems": 24.75
+          },
+          "max": {
+            "bubbles": 1896,
+            "coins": 2498,
+            "gems": 30.53
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_hexarium.png",
+        "stats": {
+          "base": {
+            "bubbles": 1794,
+            "coins": 2362,
+            "gems": 28.88
+          },
+          "max": {
+            "bubbles": 2152,
+            "coins": 2835,
+            "gems": 34.65
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_hexarium.png",
+        "stats": {
+          "base": {
+            "bubbles": 2306,
+            "coins": 3038,
+            "gems": 37.12
+          },
+          "max": {
+            "bubbles": 2665,
+            "coins": 3510,
+            "gems": 42.9
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Rainbow Shock",
+    "egg_id": "rainbow",
+    "bubbles": 1250,
+    "coins": 1700,
+    "gems": 20,
+    "chance": "0.0005%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/rainbow_shock.png",
+        "stats": {
+          "base": {
+            "bubbles": 1250,
+            "coins": 1700,
+            "gems": 20.0
+          },
+          "max": {
+            "bubbles": 1688,
+            "coins": 2295,
+            "gems": 27.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_rainbow_shock.png",
+        "stats": {
+          "base": {
+            "bubbles": 1875,
+            "coins": 2550,
+            "gems": 30.0
+          },
+          "max": {
+            "bubbles": 2312,
+            "coins": 3145,
+            "gems": 37.0
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_rainbow_shock.png",
+        "stats": {
+          "base": {
+            "bubbles": 2188,
+            "coins": 2975,
+            "gems": 35.0
+          },
+          "max": {
+            "bubbles": 2625,
+            "coins": 3570,
+            "gems": 42.0
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_rainbow_shock.png",
+        "stats": {
+          "base": {
+            "bubbles": 2812,
+            "coins": 3825,
+            "gems": 45.0
+          },
+          "max": {
+            "bubbles": 3250,
+            "coins": 4420,
+            "gems": 52.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Manny",
+    "egg_id": "aura",
+    "bubbles": 120,
+    "coins": 145,
+    "gems": 1.75,
+    "chance": "65%",
+    "title": "Rare",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/manny.png",
+        "stats": {
+          "base": {
+            "bubbles": 120,
+            "coins": 145,
+            "gems": 1.75
+          },
+          "max": {
+            "bubbles": 162,
+            "coins": 196,
+            "gems": 2.36
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_manny.png",
+        "stats": {
+          "base": {
+            "bubbles": 180,
+            "coins": 218,
+            "gems": 2.62
+          },
+          "max": {
+            "bubbles": 222,
+            "coins": 268,
+            "gems": 3.24
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Manicorn",
+    "egg_id": "aura",
+    "bubbles": 185,
+    "coins": 250,
+    "gems": 0,
+    "chance": "30%",
+    "title": "Epic",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/manicorn.png",
+        "stats": {
+          "base": {
+            "bubbles": 185,
+            "coins": 250,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 250,
+            "coins": 338,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_manicorn.png",
+        "stats": {
+          "base": {
+            "bubbles": 278,
+            "coins": 375,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 342,
+            "coins": 462,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Sigma Serpent",
+    "egg_id": "aura",
+    "bubbles": 1300,
+    "coins": 1800,
+    "gems": 16.5,
+    "chance": "0.01%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/sigma_serpent.png",
+        "stats": {
+          "base": {
+            "bubbles": 1300,
+            "coins": 1800,
+            "gems": 16.5
+          },
+          "max": {
+            "bubbles": 1755,
+            "coins": 2430,
+            "gems": 22.28
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_sigma_serpent.png",
+        "stats": {
+          "base": {
+            "bubbles": 1950,
+            "coins": 2700,
+            "gems": 24.75
+          },
+          "max": {
+            "bubbles": 2405,
+            "coins": 3330,
+            "gems": 30.53
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_sigma_serpent.png",
+        "stats": {
+          "base": {
+            "bubbles": 2275,
+            "coins": 3150,
+            "gems": 28.88
+          },
+          "max": {
+            "bubbles": 2730,
+            "coins": 3780,
+            "gems": 34.65
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_sigma_serpent.png",
+        "stats": {
+          "base": {
+            "bubbles": 2925,
+            "coins": 4050,
+            "gems": 37.12
+          },
+          "max": {
+            "bubbles": 3380,
+            "coins": 4680,
+            "gems": 42.9
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Manarium",
+    "egg_id": "aura",
+    "bubbles": 1500,
+    "coins": 1900,
+    "gems": 22,
+    "chance": "0.005%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/manarium.png",
+        "stats": {
+          "base": {
+            "bubbles": 1500,
+            "coins": 1900,
+            "gems": 22.0
+          },
+          "max": {
+            "bubbles": 2025,
+            "coins": 2565,
+            "gems": 29.7
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_manarium.png",
+        "stats": {
+          "base": {
+            "bubbles": 2250,
+            "coins": 2850,
+            "gems": 33.0
+          },
+          "max": {
+            "bubbles": 2775,
+            "coins": 3515,
+            "gems": 40.7
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_manarium.png",
+        "stats": {
+          "base": {
+            "bubbles": 2625,
+            "coins": 3325,
+            "gems": 38.5
+          },
+          "max": {
+            "bubbles": 3150,
+            "coins": 3990,
+            "gems": 46.2
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_manarium.png",
+        "stats": {
+          "base": {
+            "bubbles": 3375,
+            "coins": 4275,
+            "gems": 49.5
+          },
+          "max": {
+            "bubbles": 3900,
+            "coins": 4940,
+            "gems": 57.2
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "MAN FACE GOD",
+    "egg_id": "aura",
+    "bubbles": 2600,
+    "coins": 3100,
+    "gems": 45,
+    "chance": "0.0001%",
+    "title": "Secret",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/man_face_god.png",
+        "stats": {
+          "base": {
+            "bubbles": 2600,
+            "coins": 3100,
+            "gems": 45.0
+          },
+          "max": {
+            "bubbles": 3510,
+            "coins": 4185,
+            "gems": 60.75
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_man_face_god.png",
+        "stats": {
+          "base": {
+            "bubbles": 3900,
+            "coins": 4650,
+            "gems": 67.5
+          },
+          "max": {
+            "bubbles": 4810,
+            "coins": 5735,
+            "gems": 83.25
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_man_face_god.png",
+        "stats": {
+          "base": {
+            "bubbles": 4550,
+            "coins": 5425,
+            "gems": 78.75
+          },
+          "max": {
+            "bubbles": 5460,
+            "coins": 6510,
+            "gems": 94.5
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_man_face_god.png",
+        "stats": {
+          "base": {
+            "bubbles": 5850,
+            "coins": 6975,
+            "gems": 101
+          },
+          "max": {
+            "bubbles": 6760,
+            "coins": 8060,
+            "gems": 117
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Bunnnny",
+    "egg_id": "silly",
+    "bubbles": 135,
+    "coins": 155,
+    "gems": 2.25,
+    "chance": "65%",
+    "title": "Common",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/bunnnny.png",
+        "stats": {
+          "base": {
+            "bubbles": 135,
+            "coins": 155,
+            "gems": 2.25
+          },
+          "max": {
+            "bubbles": 182,
+            "coins": 209,
+            "gems": 3.04
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_bunnnny.png",
+        "stats": {
+          "base": {
+            "bubbles": 202,
+            "coins": 232,
+            "gems": 3.38
+          },
+          "max": {
+            "bubbles": 250,
+            "coins": 287,
+            "gems": 4.16
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Long Kitty",
+    "egg_id": "silly",
+    "bubbles": 210,
+    "coins": 270,
+    "gems": 0,
+    "chance": "30%",
+    "title": "Rare",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/long_kitty.png",
+        "stats": {
+          "base": {
+            "bubbles": 210,
+            "coins": 270,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 284,
+            "coins": 364,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_long_kitty.png",
+        "stats": {
+          "base": {
+            "bubbles": 315,
+            "coins": 405,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 388,
+            "coins": 500,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "DOOF",
+    "egg_id": "silly",
+    "bubbles": 1350,
+    "coins": 1900,
+    "gems": 18,
+    "chance": "0.01%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/doof.png",
+        "stats": {
+          "base": {
+            "bubbles": 1350,
+            "coins": 1900,
+            "gems": 18.0
+          },
+          "max": {
+            "bubbles": 1823,
+            "coins": 2565,
+            "gems": 24.3
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_doof.png",
+        "stats": {
+          "base": {
+            "bubbles": 2025,
+            "coins": 2850,
+            "gems": 27.0
+          },
+          "max": {
+            "bubbles": 2498,
+            "coins": 3515,
+            "gems": 33.3
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_doof.png",
+        "stats": {
+          "base": {
+            "bubbles": 2362,
+            "coins": 3325,
+            "gems": 31.5
+          },
+          "max": {
+            "bubbles": 2835,
+            "coins": 3990,
+            "gems": 37.8
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_doof.png",
+        "stats": {
+          "base": {
+            "bubbles": 3038,
+            "coins": 4275,
+            "gems": 40.5
+          },
+          "max": {
+            "bubbles": 3510,
+            "coins": 4940,
+            "gems": 46.8
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "ROUND",
+    "egg_id": "silly",
+    "bubbles": 1500,
+    "coins": 1900,
+    "gems": 22,
+    "chance": "0.0004%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/round.png",
+        "stats": {
+          "base": {
+            "bubbles": 1500,
+            "coins": 1900,
+            "gems": 22.0
+          },
+          "max": {
+            "bubbles": 2025,
+            "coins": 2565,
+            "gems": 29.7
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_round.png",
+        "stats": {
+          "base": {
+            "bubbles": 2250,
+            "coins": 2850,
+            "gems": 33.0
+          },
+          "max": {
+            "bubbles": 2775,
+            "coins": 3515,
+            "gems": 40.7
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_round.png",
+        "stats": {
+          "base": {
+            "bubbles": 2625,
+            "coins": 3325,
+            "gems": 38.5
+          },
+          "max": {
+            "bubbles": 3150,
+            "coins": 3990,
+            "gems": 46.2
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_round.png",
+        "stats": {
+          "base": {
+            "bubbles": 3375,
+            "coins": 4275,
+            "gems": 49.5
+          },
+          "max": {
+            "bubbles": 3900,
+            "coins": 4940,
+            "gems": 57.2
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Silly Doggy",
+    "egg_id": "silly",
+    "bubbles": 2700,
+    "coins": 3250,
+    "gems": 50,
+    "chance": "0.0001%",
+    "title": "Secret",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/silly_doggy.png",
+        "stats": {
+          "base": {
+            "bubbles": 2700,
+            "coins": 3250,
+            "gems": 50.0
+          },
+          "max": {
+            "bubbles": 3645,
+            "coins": 4388,
+            "gems": 67.5
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_silly_doggy.png",
+        "stats": {
+          "base": {
+            "bubbles": 4050,
+            "coins": 4875,
+            "gems": 75.0
+          },
+          "max": {
+            "bubbles": 4995,
+            "coins": 6012,
+            "gems": 92.5
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_silly_doggy.png",
+        "stats": {
+          "base": {
+            "bubbles": 4725,
+            "coins": 5688,
+            "gems": 87.5
+          },
+          "max": {
+            "bubbles": 5670,
+            "coins": 6825,
+            "gems": 105
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_silly_doggy.png",
+        "stats": {
+          "base": {
+            "bubbles": 6075,
+            "coins": 7312,
+            "gems": 112
+          },
+          "max": {
+            "bubbles": 7020,
+            "coins": 8450,
+            "gems": 130
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Bronze Bunny",
+    "egg_id": "100m",
+    "bubbles": 60,
+    "coins": 75,
+    "gems": 1.8,
+    "chance": "64%",
+    "title": "Common",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/bronze_bunny.png",
+        "stats": {
+          "base": {
+            "bubbles": 60.0,
+            "coins": 75.0,
+            "gems": 1.8
+          },
+          "max": {
+            "bubbles": 81.0,
+            "coins": 101,
+            "gems": 2.43
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_bronze_bunny.png",
+        "stats": {
+          "base": {
+            "bubbles": 90.0,
+            "coins": 112,
+            "gems": 2.7
+          },
+          "max": {
+            "bubbles": 111,
+            "coins": 139,
+            "gems": 3.33
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Silver Fox",
+    "egg_id": "100m",
+    "bubbles": 110,
+    "coins": 125,
+    "gems": 2.5,
+    "chance": "30%",
+    "title": "Unique",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/silver_fox.png",
+        "stats": {
+          "base": {
+            "bubbles": 110,
+            "coins": 125,
+            "gems": 2.5
+          },
+          "max": {
+            "bubbles": 148,
+            "coins": 169,
+            "gems": 3.38
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_silver_fox.png",
+        "stats": {
+          "base": {
+            "bubbles": 165,
+            "coins": 188,
+            "gems": 3.75
+          },
+          "max": {
+            "bubbles": 204,
+            "coins": 231,
+            "gems": 4.62
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Golden Dragon",
+    "egg_id": "100m",
+    "bubbles": 125,
+    "coins": 140,
+    "gems": 0,
+    "chance": "3%",
+    "title": "Epic",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/golden_dragon.png",
+        "stats": {
+          "base": {
+            "bubbles": 125,
+            "coins": 140,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 169,
+            "coins": 189,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_golden_dragon.png",
+        "stats": {
+          "base": {
+            "bubbles": 188,
+            "coins": 210,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 231,
+            "coins": 259,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Diamond Serpent",
+    "egg_id": "100m",
+    "bubbles": 600,
+    "coins": 625,
+    "gems": 12,
+    "chance": "0.04%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/diamond_serpent.png",
+        "stats": {
+          "base": {
+            "bubbles": 600,
+            "coins": 625,
+            "gems": 12.0
+          },
+          "max": {
+            "bubbles": 810,
+            "coins": 844,
+            "gems": 16.2
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_diamond_serpent.png",
+        "stats": {
+          "base": {
+            "bubbles": 900,
+            "coins": 938,
+            "gems": 18.0
+          },
+          "max": {
+            "bubbles": 1110,
+            "coins": 1156,
+            "gems": 22.2
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_diamond_serpent.png",
+        "stats": {
+          "base": {
+            "bubbles": 1050,
+            "coins": 1094,
+            "gems": 21.0
+          },
+          "max": {
+            "bubbles": 1260,
+            "coins": 1312,
+            "gems": 25.2
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_diamond_serpent.png",
+        "stats": {
+          "base": {
+            "bubbles": 1350,
+            "coins": 1406,
+            "gems": 27.0
+          },
+          "max": {
+            "bubbles": 1560,
+            "coins": 1625,
+            "gems": 31.2
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Diamond Hexarium",
+    "egg_id": "100m",
+    "bubbles": 1250,
+    "coins": 1600,
+    "gems": 23,
+    "chance": "0.002%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/diamond_hexarium.png",
+        "stats": {
+          "base": {
+            "bubbles": 1250,
+            "coins": 1600,
+            "gems": 23.0
+          },
+          "max": {
+            "bubbles": 1688,
+            "coins": 2160,
+            "gems": 31.05
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_diamond_hexarium.png",
+        "stats": {
+          "base": {
+            "bubbles": 1875,
+            "coins": 2400,
+            "gems": 34.5
+          },
+          "max": {
+            "bubbles": 2312,
+            "coins": 2960,
+            "gems": 42.55
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_diamond_hexarium.png",
+        "stats": {
+          "base": {
+            "bubbles": 2188,
+            "coins": 2800,
+            "gems": 40.25
+          },
+          "max": {
+            "bubbles": 2625,
+            "coins": 3360,
+            "gems": 48.3
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_diamond_hexarium.png",
+        "stats": {
+          "base": {
+            "bubbles": 2812,
+            "coins": 3600,
+            "gems": 51.75
+          },
+          "max": {
+            "bubbles": 3250,
+            "coins": 4160,
+            "gems": 59.8
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "King Pufferfish",
+    "egg_id": "100m",
+    "bubbles": 1475,
+    "coins": 2300,
+    "gems": 32,
+    "chance": "0.000125%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/king_pufferfish.png",
+        "stats": {
+          "base": {
+            "bubbles": 1475,
+            "coins": 2300,
+            "gems": 32.0
+          },
+          "max": {
+            "bubbles": 1991,
+            "coins": 3105,
+            "gems": 43.2
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_king_pufferfish.png",
+        "stats": {
+          "base": {
+            "bubbles": 2212,
+            "coins": 3450,
+            "gems": 48.0
+          },
+          "max": {
+            "bubbles": 2729,
+            "coins": 4255,
+            "gems": 59.2
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_king_pufferfish.png",
+        "stats": {
+          "base": {
+            "bubbles": 2581,
+            "coins": 4025,
+            "gems": 56.0
+          },
+          "max": {
+            "bubbles": 3098,
+            "coins": 4830,
+            "gems": 67.2
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_king_pufferfish.png",
+        "stats": {
+          "base": {
+            "bubbles": 3319,
+            "coins": 5175,
+            "gems": 72.0
+          },
+          "max": {
+            "bubbles": 3835,
+            "coins": 5980,
+            "gems": 83.2
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Royal Trophy",
+    "egg_id": "100m",
+    "bubbles": 3000,
+    "coins": 3500,
+    "gems": 65,
+    "chance": "0.000002%",
+    "title": "Secret",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/royal_trophy.png",
+        "stats": {
+          "base": {
+            "bubbles": 3000,
+            "coins": 3500,
+            "gems": 65.0
+          },
+          "max": {
+            "bubbles": 4050,
+            "coins": 4725,
+            "gems": 87.75
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_royal_trophy.png",
+        "stats": {
+          "base": {
+            "bubbles": 4500,
+            "coins": 5250,
+            "gems": 97.5
+          },
+          "max": {
+            "bubbles": 5550,
+            "coins": 6475,
+            "gems": 120
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_royal_trophy.png",
+        "stats": {
+          "base": {
+            "bubbles": 5250,
+            "coins": 6125,
+            "gems": 114
+          },
+          "max": {
+            "bubbles": 6300,
+            "coins": 7350,
+            "gems": 136
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_royal_trophy.png",
+        "stats": {
+          "base": {
+            "bubbles": 6750,
+            "coins": 7875,
+            "gems": 146
+          },
+          "max": {
+            "bubbles": 7800,
+            "coins": 9100,
+            "gems": 169
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Paper Doggy",
+    "egg_id": "pastel",
+    "bubbles": 40,
+    "coins": 36,
+    "gems": 0,
+    "chance": "60%",
+    "title": "Common",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/paper_doggy.png",
+        "stats": {
+          "base": {
+            "bubbles": 40.0,
+            "coins": 36.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 54.0,
+            "coins": 48.6,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_paper_doggy.png",
+        "stats": {
+          "base": {
+            "bubbles": 60.0,
+            "coins": 54.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 74.0,
+            "coins": 66.6,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Paper Bunny",
+    "egg_id": "pastel",
+    "bubbles": 55,
+    "coins": 60,
+    "gems": 0,
+    "chance": "29.9%",
+    "title": "Unique",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/paper_bunny.png",
+        "stats": {
+          "base": {
+            "bubbles": 55.0,
+            "coins": 60.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 74.25,
+            "coins": 81.0,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_paper_bunny.png",
+        "stats": {
+          "base": {
+            "bubbles": 82.5,
+            "coins": 90.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 102,
+            "coins": 111,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Chubby Bunny",
+    "egg_id": "pastel",
+    "bubbles": 100,
+    "coins": 115,
+    "gems": 0,
+    "chance": "7%",
+    "title": "Rare",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/chubby_bunny.png",
+        "stats": {
+          "base": {
+            "bubbles": 100.0,
+            "coins": 115,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 135,
+            "coins": 155,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_chubby_bunny.png",
+        "stats": {
+          "base": {
+            "bubbles": 150,
+            "coins": 172,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 185,
+            "coins": 213,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Hatchling",
+    "egg_id": "pastel",
+    "bubbles": 190,
+    "coins": 265,
+    "gems": 0,
+    "chance": "2.25%",
+    "title": "Epic",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/hatchling.png",
+        "stats": {
+          "base": {
+            "bubbles": 190,
+            "coins": 265,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 256,
+            "coins": 358,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_hatchling.png",
+        "stats": {
+          "base": {
+            "bubbles": 285,
+            "coins": 398,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 352,
+            "coins": 490,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Sweet Treat",
+    "egg_id": "pastel",
+    "bubbles": 620,
+    "coins": 725,
+    "gems": 12,
+    "chance": "0.004%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/sweet_treat.png",
+        "stats": {
+          "base": {
+            "bubbles": 620,
+            "coins": 725,
+            "gems": 12.0
+          },
+          "max": {
+            "bubbles": 837,
+            "coins": 979,
+            "gems": 16.2
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_sweet_treat.png",
+        "stats": {
+          "base": {
+            "bubbles": 930,
+            "coins": 1088,
+            "gems": 18.0
+          },
+          "max": {
+            "bubbles": 1147,
+            "coins": 1341,
+            "gems": 22.2
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_sweet_treat.png",
+        "stats": {
+          "base": {
+            "bubbles": 1085,
+            "coins": 1269,
+            "gems": 21.0
+          },
+          "max": {
+            "bubbles": 1302,
+            "coins": 1522,
+            "gems": 25.2
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_sweet_treat.png",
+        "stats": {
+          "base": {
+            "bubbles": 1395,
+            "coins": 1631,
+            "gems": 27.0
+          },
+          "max": {
+            "bubbles": 1612,
+            "coins": 1885,
+            "gems": 31.2
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Rainbow Marshmellow",
+    "egg_id": "pastel",
+    "bubbles": 1250,
+    "coins": 1700,
+    "gems": 20,
+    "chance": "0.0008%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/rainbow_marshmellow.png",
+        "stats": {
+          "base": {
+            "bubbles": 1250,
+            "coins": 1700,
+            "gems": 20.0
+          },
+          "max": {
+            "bubbles": 1688,
+            "coins": 2295,
+            "gems": 27.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_rainbow_marshmellow.png",
+        "stats": {
+          "base": {
+            "bubbles": 1875,
+            "coins": 2550,
+            "gems": 30.0
+          },
+          "max": {
+            "bubbles": 2312,
+            "coins": 3145,
+            "gems": 37.0
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_rainbow_marshmellow.png",
+        "stats": {
+          "base": {
+            "bubbles": 2188,
+            "coins": 2975,
+            "gems": 35.0
+          },
+          "max": {
+            "bubbles": 2625,
+            "coins": 3570,
+            "gems": 42.0
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_rainbow_marshmellow.png",
+        "stats": {
+          "base": {
+            "bubbles": 2812,
+            "coins": 3825,
+            "gems": 45.0
+          },
+          "max": {
+            "bubbles": 3250,
+            "coins": 4420,
+            "gems": 52.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Giant Chocolate Chicken",
+    "egg_id": "pastel",
+    "bubbles": 2225,
+    "coins": 3100,
+    "gems": 45,
+    "chance": "0.000002%",
+    "title": "Secret",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/giant_chocolate_chicken.png",
+        "stats": {
+          "base": {
+            "bubbles": 2225,
+            "coins": 3100,
+            "gems": 45.0
+          },
+          "max": {
+            "bubbles": 3004,
+            "coins": 4185,
+            "gems": 60.75
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_giant_chocolate_chicken.png",
+        "stats": {
+          "base": {
+            "bubbles": 3338,
+            "coins": 4650,
+            "gems": 67.5
+          },
+          "max": {
+            "bubbles": 4116,
+            "coins": 5735,
+            "gems": 83.25
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_giant_chocolate_chicken.png",
+        "stats": {
+          "base": {
+            "bubbles": 3894,
+            "coins": 5425,
+            "gems": 78.75
+          },
+          "max": {
+            "bubbles": 4672,
+            "coins": 6510,
+            "gems": 94.5
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_giant_chocolate_chicken.png",
+        "stats": {
+          "base": {
+            "bubbles": 5006,
+            "coins": 6975,
+            "gems": 101
+          },
+          "max": {
+            "bubbles": 5785,
+            "coins": 8060,
+            "gems": 117
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Bunny Doggy",
+    "egg_id": "bunny",
+    "bubbles": 50,
+    "coins": 62,
+    "gems": 1.5,
+    "chance": "64%",
+    "title": "Common",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/bunny_doggy.png",
+        "stats": {
+          "base": {
+            "bubbles": 50.0,
+            "coins": 62.0,
+            "gems": 1.5
+          },
+          "max": {
+            "bubbles": 67.5,
+            "coins": 83.7,
+            "gems": 2.03
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_bunny_doggy.png",
+        "stats": {
+          "base": {
+            "bubbles": 75.0,
+            "coins": 93.0,
+            "gems": 2.25
+          },
+          "max": {
+            "bubbles": 92.5,
+            "coins": 115,
+            "gems": 2.78
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Egg Bunny",
+    "egg_id": "bunny",
+    "bubbles": 88,
+    "coins": 105,
+    "gems": 1.8,
+    "chance": "30%",
+    "title": "Unique",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/egg_bunny.png",
+        "stats": {
+          "base": {
+            "bubbles": 88.0,
+            "coins": 105,
+            "gems": 1.8
+          },
+          "max": {
+            "bubbles": 119,
+            "coins": 142,
+            "gems": 2.43
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_egg_bunny.png",
+        "stats": {
+          "base": {
+            "bubbles": 132,
+            "coins": 158,
+            "gems": 2.7
+          },
+          "max": {
+            "bubbles": 163,
+            "coins": 194,
+            "gems": 3.33
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Angel Bunny",
+    "egg_id": "bunny",
+    "bubbles": 95,
+    "coins": 105,
+    "gems": 0,
+    "chance": "3%",
+    "title": "Epic",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/angel_bunny.png",
+        "stats": {
+          "base": {
+            "bubbles": 95.0,
+            "coins": 105,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 128,
+            "coins": 142,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_angel_bunny.png",
+        "stats": {
+          "base": {
+            "bubbles": 142,
+            "coins": 158,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 176,
+            "coins": 194,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Seraphic Bunny",
+    "egg_id": "bunny",
+    "bubbles": 500,
+    "coins": 550,
+    "gems": 8,
+    "chance": "0.02%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/seraphic_bunny.png",
+        "stats": {
+          "base": {
+            "bubbles": 500,
+            "coins": 550,
+            "gems": 8.0
+          },
+          "max": {
+            "bubbles": 675,
+            "coins": 742,
+            "gems": 10.8
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_seraphic_bunny.png",
+        "stats": {
+          "base": {
+            "bubbles": 750,
+            "coins": 825,
+            "gems": 12.0
+          },
+          "max": {
+            "bubbles": 925,
+            "coins": 1018,
+            "gems": 14.8
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_seraphic_bunny.png",
+        "stats": {
+          "base": {
+            "bubbles": 875,
+            "coins": 962,
+            "gems": 14.0
+          },
+          "max": {
+            "bubbles": 1050,
+            "coins": 1155,
+            "gems": 16.8
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_seraphic_bunny.png",
+        "stats": {
+          "base": {
+            "bubbles": 1125,
+            "coins": 1238,
+            "gems": 18.0
+          },
+          "max": {
+            "bubbles": 1300,
+            "coins": 1430,
+            "gems": 20.8
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Ethereal Bunny",
+    "egg_id": "bunny",
+    "bubbles": 1075,
+    "coins": 1400,
+    "gems": 19,
+    "chance": "0.001%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/ethereal_bunny.png",
+        "stats": {
+          "base": {
+            "bubbles": 1075,
+            "coins": 1400,
+            "gems": 19.0
+          },
+          "max": {
+            "bubbles": 1451,
+            "coins": 1890,
+            "gems": 25.65
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_ethereal_bunny.png",
+        "stats": {
+          "base": {
+            "bubbles": 1612,
+            "coins": 2100,
+            "gems": 28.5
+          },
+          "max": {
+            "bubbles": 1989,
+            "coins": 2590,
+            "gems": 35.15
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_ethereal_bunny.png",
+        "stats": {
+          "base": {
+            "bubbles": 1881,
+            "coins": 2450,
+            "gems": 33.25
+          },
+          "max": {
+            "bubbles": 2258,
+            "coins": 2940,
+            "gems": 39.9
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_ethereal_bunny.png",
+        "stats": {
+          "base": {
+            "bubbles": 2419,
+            "coins": 3150,
+            "gems": 42.75
+          },
+          "max": {
+            "bubbles": 2795,
+            "coins": 3640,
+            "gems": 49.4
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Cardinal Bunny",
+    "egg_id": "bunny",
+    "bubbles": 1425,
+    "coins": 2000,
+    "gems": 28,
+    "chance": "0.0001%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/cardinal_bunny.png",
+        "stats": {
+          "base": {
+            "bubbles": 1425,
+            "coins": 2000,
+            "gems": 28.0
+          },
+          "max": {
+            "bubbles": 1924,
+            "coins": 2700,
+            "gems": 37.8
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_cardinal_bunny.png",
+        "stats": {
+          "base": {
+            "bubbles": 2138,
+            "coins": 3000,
+            "gems": 42.0
+          },
+          "max": {
+            "bubbles": 2636,
+            "coins": 3700,
+            "gems": 51.8
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_cardinal_bunny.png",
+        "stats": {
+          "base": {
+            "bubbles": 2494,
+            "coins": 3500,
+            "gems": 49.0
+          },
+          "max": {
+            "bubbles": 2992,
+            "coins": 4200,
+            "gems": 58.8
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_cardinal_bunny.png",
+        "stats": {
+          "base": {
+            "bubbles": 3206,
+            "coins": 4500,
+            "gems": 63.0
+          },
+          "max": {
+            "bubbles": 3705,
+            "coins": 5200,
+            "gems": 72.8
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Easter Basket",
+    "egg_id": "bunny",
+    "bubbles": 2900,
+    "coins": 3500,
+    "gems": 60,
+    "chance": "0.000001%",
+    "title": "Secret",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/easter_basket.png",
+        "stats": {
+          "base": {
+            "bubbles": 2900,
+            "coins": 3500,
+            "gems": 60.0
+          },
+          "max": {
+            "bubbles": 3915,
+            "coins": 4725,
+            "gems": 81.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_easter_basket.png",
+        "stats": {
+          "base": {
+            "bubbles": 4350,
+            "coins": 5250,
+            "gems": 90.0
+          },
+          "max": {
+            "bubbles": 5365,
+            "coins": 6475,
+            "gems": 111
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_easter_basket.png",
+        "stats": {
+          "base": {
+            "bubbles": 5075,
+            "coins": 6125,
+            "gems": 105
+          },
+          "max": {
+            "bubbles": 6090,
+            "coins": 7350,
+            "gems": 126
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_easter_basket.png",
+        "stats": {
+          "base": {
+            "bubbles": 6525,
+            "coins": 7875,
+            "gems": 135
+          },
+          "max": {
+            "bubbles": 7540,
+            "coins": 9100,
+            "gems": 156
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Bow Bunny",
+    "egg_id": "throwback",
+    "bubbles": 55,
+    "coins": 70,
+    "gems": 1.5,
+    "chance": "64%",
+    "title": "Common",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/bow_bunny.png",
+        "stats": {
+          "base": {
+            "bubbles": 55.0,
+            "coins": 70.0,
+            "gems": 1.5
+          },
+          "max": {
+            "bubbles": 74.25,
+            "coins": 94.5,
+            "gems": 2.03
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_bow_bunny.png",
+        "stats": {
+          "base": {
+            "bubbles": 82.5,
+            "coins": 105,
+            "gems": 2.25
+          },
+          "max": {
+            "bubbles": 102,
+            "coins": 130,
+            "gems": 2.78
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Easter Egg",
+    "egg_id": "throwback",
+    "bubbles": 100,
+    "coins": 120,
+    "gems": 2.2,
+    "chance": "30%",
+    "title": "Unique",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/easter_egg.png",
+        "stats": {
+          "base": {
+            "bubbles": 100.0,
+            "coins": 120,
+            "gems": 2.2
+          },
+          "max": {
+            "bubbles": 135,
+            "coins": 162,
+            "gems": 2.97
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_easter_egg.png",
+        "stats": {
+          "base": {
+            "bubbles": 150,
+            "coins": 180,
+            "gems": 3.3
+          },
+          "max": {
+            "bubbles": 185,
+            "coins": 222,
+            "gems": 4.07
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Flying Bunny",
+    "egg_id": "throwback",
+    "bubbles": 115,
+    "coins": 125,
+    "gems": 0,
+    "chance": "3%",
+    "title": "Epic",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/flying_bunny.png",
+        "stats": {
+          "base": {
+            "bubbles": 115,
+            "coins": 125,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 155,
+            "coins": 169,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_flying_bunny.png",
+        "stats": {
+          "base": {
+            "bubbles": 172,
+            "coins": 188,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 213,
+            "coins": 231,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Easter Serpent",
+    "egg_id": "throwback",
+    "bubbles": 550,
+    "coins": 600,
+    "gems": 10,
+    "chance": "0.04%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/easter_serpent.png",
+        "stats": {
+          "base": {
+            "bubbles": 550,
+            "coins": 600,
+            "gems": 10.0
+          },
+          "max": {
+            "bubbles": 742,
+            "coins": 810,
+            "gems": 13.5
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_easter_serpent.png",
+        "stats": {
+          "base": {
+            "bubbles": 825,
+            "coins": 900,
+            "gems": 15.0
+          },
+          "max": {
+            "bubbles": 1018,
+            "coins": 1110,
+            "gems": 18.5
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_easter_serpent.png",
+        "stats": {
+          "base": {
+            "bubbles": 962,
+            "coins": 1050,
+            "gems": 17.5
+          },
+          "max": {
+            "bubbles": 1155,
+            "coins": 1260,
+            "gems": 21.0
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_easter_serpent.png",
+        "stats": {
+          "base": {
+            "bubbles": 1238,
+            "coins": 1350,
+            "gems": 22.5
+          },
+          "max": {
+            "bubbles": 1430,
+            "coins": 1560,
+            "gems": 26.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Dualcorn",
+    "egg_id": "throwback",
+    "bubbles": 1200,
+    "coins": 1550,
+    "gems": 21,
+    "chance": "0.002%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/dualcorn.png",
+        "stats": {
+          "base": {
+            "bubbles": 1200,
+            "coins": 1550,
+            "gems": 21.0
+          },
+          "max": {
+            "bubbles": 1620,
+            "coins": 2092,
+            "gems": 28.35
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_dualcorn.png",
+        "stats": {
+          "base": {
+            "bubbles": 1800,
+            "coins": 2325,
+            "gems": 31.5
+          },
+          "max": {
+            "bubbles": 2220,
+            "coins": 2868,
+            "gems": 38.85
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_dualcorn.png",
+        "stats": {
+          "base": {
+            "bubbles": 2100,
+            "coins": 2712,
+            "gems": 36.75
+          },
+          "max": {
+            "bubbles": 2520,
+            "coins": 3255,
+            "gems": 44.1
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_dualcorn.png",
+        "stats": {
+          "base": {
+            "bubbles": 2700,
+            "coins": 3488,
+            "gems": 47.25
+          },
+          "max": {
+            "bubbles": 3120,
+            "coins": 4030,
+            "gems": 54.6
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Holy Egg",
+    "egg_id": "throwback",
+    "bubbles": 1425,
+    "coins": 2200,
+    "gems": 28,
+    "chance": "0.0002%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/holy_egg.png",
+        "stats": {
+          "base": {
+            "bubbles": 1425,
+            "coins": 2200,
+            "gems": 28.0
+          },
+          "max": {
+            "bubbles": 1924,
+            "coins": 2970,
+            "gems": 37.8
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_holy_egg.png",
+        "stats": {
+          "base": {
+            "bubbles": 2138,
+            "coins": 3300,
+            "gems": 42.0
+          },
+          "max": {
+            "bubbles": 2636,
+            "coins": 4070,
+            "gems": 51.8
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_holy_egg.png",
+        "stats": {
+          "base": {
+            "bubbles": 2494,
+            "coins": 3850,
+            "gems": 49.0
+          },
+          "max": {
+            "bubbles": 2992,
+            "coins": 4620,
+            "gems": 58.8
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_holy_egg.png",
+        "stats": {
+          "base": {
+            "bubbles": 3206,
+            "coins": 4950,
+            "gems": 63.0
+          },
+          "max": {
+            "bubbles": 3705,
+            "coins": 5720,
+            "gems": 72.8
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Godly Gem",
+    "egg_id": "throwback",
+    "bubbles": 3200,
+    "coins": 3750,
+    "gems": 70,
+    "chance": "0.0000004%",
+    "title": "Secret",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/godly_gem.png",
+        "stats": {
+          "base": {
+            "bubbles": 3200,
+            "coins": 3750,
+            "gems": 70.0
+          },
+          "max": {
+            "bubbles": 4320,
+            "coins": 5062,
+            "gems": 94.5
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_godly_gem.png",
+        "stats": {
+          "base": {
+            "bubbles": 4800,
+            "coins": 5625,
+            "gems": 105
+          },
+          "max": {
+            "bubbles": 5920,
+            "coins": 6938,
+            "gems": 130
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_godly_gem.png",
+        "stats": {
+          "base": {
+            "bubbles": 5600,
+            "coins": 6562,
+            "gems": 122
+          },
+          "max": {
+            "bubbles": 6720,
+            "coins": 7875,
+            "gems": 147
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_godly_gem.png",
+        "stats": {
+          "base": {
+            "bubbles": 7200,
+            "coins": 8438,
+            "gems": 158
+          },
+          "max": {
+            "bubbles": 8320,
+            "coins": 9750,
+            "gems": 182
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Dementor",
+    "egg_id": "throwback",
+    "bubbles": 3750,
+    "coins": 4250,
+    "gems": 85,
+    "chance": "0.0000001%",
+    "title": "Secret",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/dementor.png",
+        "stats": {
+          "base": {
+            "bubbles": 3750,
+            "coins": 4250,
+            "gems": 85.0
+          },
+          "max": {
+            "bubbles": 5062,
+            "coins": 5738,
+            "gems": 115
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_dementor.png",
+        "stats": {
+          "base": {
+            "bubbles": 5625,
+            "coins": 6375,
+            "gems": 128
+          },
+          "max": {
+            "bubbles": 6938,
+            "coins": 7862,
+            "gems": 157
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_dementor.png",
+        "stats": {
+          "base": {
+            "bubbles": 6562,
+            "coins": 7438,
+            "gems": 149
+          },
+          "max": {
+            "bubbles": 7875,
+            "coins": 8925,
+            "gems": 178
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_dementor.png",
+        "stats": {
+          "base": {
+            "bubbles": 8438,
+            "coins": 9562,
+            "gems": 191
+          },
+          "max": {
+            "bubbles": 9750,
+            "coins": 11050,
+            "gems": 221
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Enlightened Kitty",
+    "egg_id": "season1",
+    "bubbles": 35,
+    "coins": 15,
+    "gems": 0,
+    "chance": "90%",
+    "title": "Rare",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/enlightened_kitty.png",
+        "stats": {
+          "base": {
+            "bubbles": 35.0,
+            "coins": 15.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 47.25,
+            "coins": 20.25,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_enlightened_kitty.png",
+        "stats": {
+          "base": {
+            "bubbles": 52.5,
+            "coins": 22.5,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 64.75,
+            "coins": 27.75,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Judgement",
+    "egg_id": "season1",
+    "bubbles": 185,
+    "coins": 250,
+    "gems": 0,
+    "chance": "10%",
+    "title": "Epic",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/judgement.png",
+        "stats": {
+          "base": {
+            "bubbles": 185,
+            "coins": 250,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 250,
+            "coins": 338,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_judgement.png",
+        "stats": {
+          "base": {
+            "bubbles": 278,
+            "coins": 375,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 342,
+            "coins": 462,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Ophanim",
+    "egg_id": "season1",
+    "bubbles": 925,
+    "coins": 1200,
+    "gems": 15,
+    "chance": "0.5%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/ophanim.png",
+        "stats": {
+          "base": {
+            "bubbles": 925,
+            "coins": 1200,
+            "gems": 15.0
+          },
+          "max": {
+            "bubbles": 1249,
+            "coins": 1620,
+            "gems": 20.25
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_ophanim.png",
+        "stats": {
+          "base": {
+            "bubbles": 1388,
+            "coins": 1800,
+            "gems": 22.5
+          },
+          "max": {
+            "bubbles": 1711,
+            "coins": 2220,
+            "gems": 27.75
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_ophanim.png",
+        "stats": {
+          "base": {
+            "bubbles": 1619,
+            "coins": 2100,
+            "gems": 26.25
+          },
+          "max": {
+            "bubbles": 1942,
+            "coins": 2520,
+            "gems": 31.5
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_ophanim.png",
+        "stats": {
+          "base": {
+            "bubbles": 2081,
+            "coins": 2700,
+            "gems": 33.75
+          },
+          "max": {
+            "bubbles": 2405,
+            "coins": 3120,
+            "gems": 39.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Seraph",
+    "egg_id": "season1",
+    "bubbles": 1600,
+    "coins": 2300,
+    "gems": 22,
+    "chance": "0.01%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/seraph.png",
+        "stats": {
+          "base": {
+            "bubbles": 1600,
+            "coins": 2300,
+            "gems": 22.0
+          },
+          "max": {
+            "bubbles": 2160,
+            "coins": 3105,
+            "gems": 29.7
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_seraph.png",
+        "stats": {
+          "base": {
+            "bubbles": 2400,
+            "coins": 3450,
+            "gems": 33.0
+          },
+          "max": {
+            "bubbles": 2960,
+            "coins": 4255,
+            "gems": 40.7
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_seraph.png",
+        "stats": {
+          "base": {
+            "bubbles": 2800,
+            "coins": 4025,
+            "gems": 38.5
+          },
+          "max": {
+            "bubbles": 3360,
+            "coins": 4830,
+            "gems": 46.2
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_seraph.png",
+        "stats": {
+          "base": {
+            "bubbles": 3600,
+            "coins": 5175,
+            "gems": 49.5
+          },
+          "max": {
+            "bubbles": 4160,
+            "coins": 5980,
+            "gems": 57.2
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Competitor Doggy",
+    "egg_id": "series1",
+    "bubbles": 40,
+    "coins": 20,
+    "gems": 0,
+    "chance": "90%",
+    "title": "Rare",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/competitor_doggy.png",
+        "stats": {
+          "base": {
+            "bubbles": 40.0,
+            "coins": 20.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 54.0,
+            "coins": 27.0,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_competitor_doggy.png",
+        "stats": {
+          "base": {
+            "bubbles": 60.0,
+            "coins": 30.0,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 74.0,
+            "coins": 37.0,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Golden Golem",
+    "egg_id": "series1",
+    "bubbles": 195,
+    "coins": 265,
+    "gems": 0,
+    "chance": "9.9%",
+    "title": "Epic",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/golden_golem.png",
+        "stats": {
+          "base": {
+            "bubbles": 195,
+            "coins": 265,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 263,
+            "coins": 358,
+            "gems": 0.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_golden_golem.png",
+        "stats": {
+          "base": {
+            "bubbles": 292,
+            "coins": 398,
+            "gems": 0.0
+          },
+          "max": {
+            "bubbles": 361,
+            "coins": 490,
+            "gems": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Parasite",
+    "egg_id": "series1",
+    "bubbles": 980,
+    "coins": 1250,
+    "gems": 18,
+    "chance": "0.1%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/parasite.png",
+        "stats": {
+          "base": {
+            "bubbles": 980,
+            "coins": 1250,
+            "gems": 18.0
+          },
+          "max": {
+            "bubbles": 1323,
+            "coins": 1688,
+            "gems": 24.3
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_parasite.png",
+        "stats": {
+          "base": {
+            "bubbles": 1470,
+            "coins": 1875,
+            "gems": 27.0
+          },
+          "max": {
+            "bubbles": 1813,
+            "coins": 2312,
+            "gems": 33.3
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_parasite.png",
+        "stats": {
+          "base": {
+            "bubbles": 1715,
+            "coins": 2188,
+            "gems": 31.5
+          },
+          "max": {
+            "bubbles": 2058,
+            "coins": 2625,
+            "gems": 37.8
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_parasite.png",
+        "stats": {
+          "base": {
+            "bubbles": 2205,
+            "coins": 2812,
+            "gems": 40.5
+          },
+          "max": {
+            "bubbles": 2548,
+            "coins": 3250,
+            "gems": 46.8
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Starlight",
+    "egg_id": "series1",
+    "bubbles": 1700,
+    "coins": 2350,
+    "gems": 25,
+    "chance": "0.01%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/starlight.png",
+        "stats": {
+          "base": {
+            "bubbles": 1700,
+            "coins": 2350,
+            "gems": 25.0
+          },
+          "max": {
+            "bubbles": 2295,
+            "coins": 3172,
+            "gems": 33.75
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_starlight.png",
+        "stats": {
+          "base": {
+            "bubbles": 2550,
+            "coins": 3525,
+            "gems": 37.5
+          },
+          "max": {
+            "bubbles": 3145,
+            "coins": 4348,
+            "gems": 46.25
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_starlight.png",
+        "stats": {
+          "base": {
+            "bubbles": 2975,
+            "coins": 4112,
+            "gems": 43.75
+          },
+          "max": {
+            "bubbles": 3570,
+            "coins": 4935,
+            "gems": 52.5
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_starlight.png",
+        "stats": {
+          "base": {
+            "bubbles": 3825,
+            "coins": 5288,
+            "gems": 56.25
+          },
+          "max": {
+            "bubbles": 4420,
+            "coins": 6110,
+            "gems": 65.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Overseer",
+    "egg_id": "series1",
+    "bubbles": 2300,
+    "coins": 3150,
+    "gems": 50,
+    "chance": "0.001%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/overseer.png",
+        "stats": {
+          "base": {
+            "bubbles": 2300,
+            "coins": 3150,
+            "gems": 50.0
+          },
+          "max": {
+            "bubbles": 3105,
+            "coins": 4252,
+            "gems": 67.5
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_overseer.png",
+        "stats": {
+          "base": {
+            "bubbles": 3450,
+            "coins": 4725,
+            "gems": 75.0
+          },
+          "max": {
+            "bubbles": 4255,
+            "coins": 5828,
+            "gems": 92.5
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_overseer.png",
+        "stats": {
+          "base": {
+            "bubbles": 4025,
+            "coins": 5512,
+            "gems": 87.5
+          },
+          "max": {
+            "bubbles": 4830,
+            "coins": 6615,
+            "gems": 105
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_overseer.png",
+        "stats": {
+          "base": {
+            "bubbles": 5175,
+            "coins": 7088,
+            "gems": 112
+          },
+          "max": {
+            "bubbles": 5980,
+            "coins": 8190,
+            "gems": 130
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Lunar Deity",
+    "egg_id": "bubble_pass",
+    "bubbles": 975,
+    "coins": 1300,
+    "gems": 15,
+    "chance": "100%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/lunar_deity.png",
+        "stats": {
+          "base": {
+            "bubbles": 975,
+            "coins": 1300,
+            "gems": 15.0
+          },
+          "max": {
+            "bubbles": 1316,
+            "coins": 1755,
+            "gems": 20.25
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_lunar_deity.png",
+        "stats": {
+          "base": {
+            "bubbles": 1462,
+            "coins": 1950,
+            "gems": 22.5
+          },
+          "max": {
+            "bubbles": 1804,
+            "coins": 2405,
+            "gems": 27.75
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Solar Deity",
+    "egg_id": "bubble_pass",
+    "bubbles": 1050,
+    "coins": 1400,
+    "gems": 18,
+    "chance": "100%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/solar_deity.png",
+        "stats": {
+          "base": {
+            "bubbles": 1050,
+            "coins": 1400,
+            "gems": 18.0
+          },
+          "max": {
+            "bubbles": 1418,
+            "coins": 1890,
+            "gems": 24.3
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_solar_deity.png",
+        "stats": {
+          "base": {
+            "bubbles": 1575,
+            "coins": 2100,
+            "gems": 27.0
+          },
+          "max": {
+            "bubbles": 1942,
+            "coins": 2590,
+            "gems": 33.3
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Crescent Empress",
+    "egg_id": "infinity_pass",
+    "bubbles": 1100,
+    "coins": 1425,
+    "gems": 19,
+    "chance": "0.1%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/crescent_empress.png",
+        "stats": {
+          "base": {
+            "bubbles": 1100,
+            "coins": 1425,
+            "gems": 19.0
+          },
+          "max": {
+            "bubbles": 1485,
+            "coins": 1924,
+            "gems": 25.65
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_crescent_empress.png",
+        "stats": {
+          "base": {
+            "bubbles": 1650,
+            "coins": 2138,
+            "gems": 28.5
+          },
+          "max": {
+            "bubbles": 2035,
+            "coins": 2636,
+            "gems": 35.15
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_crescent_empress.png",
+        "stats": {
+          "base": {
+            "bubbles": 1925,
+            "coins": 2494,
+            "gems": 33.25
+          },
+          "max": {
+            "bubbles": 2310,
+            "coins": 2992,
+            "gems": 39.9
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_crescent_empress.png",
+        "stats": {
+          "base": {
+            "bubbles": 2475,
+            "coins": 3206,
+            "gems": 42.75
+          },
+          "max": {
+            "bubbles": 2860,
+            "coins": 3705,
+            "gems": 49.4
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Avernus",
+    "egg_id": "infinity_pass",
+    "bubbles": 1900,
+    "coins": 2600,
+    "gems": 35,
+    "chance": "0.005%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/avernus.png",
+        "stats": {
+          "base": {
+            "bubbles": 1900,
+            "coins": 2600,
+            "gems": 35.0
+          },
+          "max": {
+            "bubbles": 2565,
+            "coins": 3510,
+            "gems": 47.25
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_avernus.png",
+        "stats": {
+          "base": {
+            "bubbles": 2850,
+            "coins": 3900,
+            "gems": 52.5
+          },
+          "max": {
+            "bubbles": 3515,
+            "coins": 4810,
+            "gems": 64.75
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_avernus.png",
+        "stats": {
+          "base": {
+            "bubbles": 3325,
+            "coins": 4550,
+            "gems": 61.25
+          },
+          "max": {
+            "bubbles": 3990,
+            "coins": 5460,
+            "gems": 73.5
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_avernus.png",
+        "stats": {
+          "base": {
+            "bubbles": 4275,
+            "coins": 5850,
+            "gems": 78.75
+          },
+          "max": {
+            "bubbles": 4940,
+            "coins": 6760,
+            "gems": 91.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Midas",
+    "egg_id": "golden_box",
+    "bubbles": 1325,
+    "coins": 1850,
+    "gems": 25,
+    "chance": "0.1%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/midas.png",
+        "stats": {
+          "base": {
+            "bubbles": 1325,
+            "coins": 1850,
+            "gems": 25.0
+          },
+          "max": {
+            "bubbles": 1789,
+            "coins": 2498,
+            "gems": 33.75
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_midas.png",
+        "stats": {
+          "base": {
+            "bubbles": 1988,
+            "coins": 2775,
+            "gems": 37.5
+          },
+          "max": {
+            "bubbles": 2451,
+            "coins": 3422,
+            "gems": 46.25
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_midas.png",
+        "stats": {
+          "base": {
+            "bubbles": 2319,
+            "coins": 3238,
+            "gems": 43.75
+          },
+          "max": {
+            "bubbles": 2782,
+            "coins": 3885,
+            "gems": 52.5
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_midas.png",
+        "stats": {
+          "base": {
+            "bubbles": 2981,
+            "coins": 4162,
+            "gems": 56.25
+          },
+          "max": {
+            "bubbles": 3445,
+            "coins": 4810,
+            "gems": 65.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Dowodle",
+    "egg_id": "robux",
+    "bubbles": 120,
+    "coins": 135,
+    "gems": 1.5,
+    "chance": "-",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/dowodle.png",
+        "stats": {
+          "base": {
+            "bubbles": 120,
+            "coins": 135,
+            "gems": 1.5
+          },
+          "max": {
+            "bubbles": 162,
+            "coins": 182,
+            "gems": 2.03
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_dowodle.png",
+        "stats": {
+          "base": {
+            "bubbles": 180,
+            "coins": 202,
+            "gems": 2.25
+          },
+          "max": {
+            "bubbles": 222,
+            "coins": 250,
+            "gems": 2.78
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Beta TV",
+    "egg_id": "robux",
+    "bubbles": 110,
+    "coins": 95,
+    "gems": 1.35,
+    "chance": "-",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/beta_tv.png",
+        "stats": {
+          "base": {
+            "bubbles": 110,
+            "coins": 95.0,
+            "gems": 1.35
+          },
+          "max": {
+            "bubbles": 148,
+            "coins": 128,
+            "gems": 1.82
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_beta_tv.png",
+        "stats": {
+          "base": {
+            "bubbles": 165,
+            "coins": 142,
+            "gems": 2.03
+          },
+          "max": {
+            "bubbles": 204,
+            "coins": 176,
+            "gems": 2.5
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Infernus",
+    "egg_id": "robux",
+    "bubbles": 130,
+    "coins": 140,
+    "gems": 2,
+    "chance": "-",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/infernus.png",
+        "stats": {
+          "base": {
+            "bubbles": 130,
+            "coins": 140,
+            "gems": 2.0
+          },
+          "max": {
+            "bubbles": 176,
+            "coins": 189,
+            "gems": 2.7
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_infernus.png",
+        "stats": {
+          "base": {
+            "bubbles": 195,
+            "coins": 210,
+            "gems": 3.0
+          },
+          "max": {
+            "bubbles": 240,
+            "coins": 259,
+            "gems": 3.7
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Dark Serpent",
+    "egg_id": "robux",
+    "bubbles": 120,
+    "coins": 120,
+    "gems": 1.6,
+    "chance": "-",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/dark_serpent.png",
+        "stats": {
+          "base": {
+            "bubbles": 120,
+            "coins": 120,
+            "gems": 1.6
+          },
+          "max": {
+            "bubbles": 162,
+            "coins": 162,
+            "gems": 2.16
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_dark_serpent.png",
+        "stats": {
+          "base": {
+            "bubbles": 180,
+            "coins": 180,
+            "gems": 2.4
+          },
+          "max": {
+            "bubbles": 222,
+            "coins": 222,
+            "gems": 2.96
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Electra Hydra",
+    "egg_id": "robux",
+    "bubbles": 120,
+    "coins": 120,
+    "gems": 1.6,
+    "chance": "-",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/electra_hydra.png",
+        "stats": {
+          "base": {
+            "bubbles": 120,
+            "coins": 120,
+            "gems": 1.6
+          },
+          "max": {
+            "bubbles": 162,
+            "coins": 162,
+            "gems": 2.16
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_electra_hydra.png",
+        "stats": {
+          "base": {
+            "bubbles": 180,
+            "coins": 180,
+            "gems": 2.4
+          },
+          "max": {
+            "bubbles": 222,
+            "coins": 222,
+            "gems": 2.96
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Enraged Phoenix",
+    "egg_id": "robux",
+    "bubbles": 120,
+    "coins": 120,
+    "gems": 1.6,
+    "chance": "-",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/enraged_phoenix.png",
+        "stats": {
+          "base": {
+            "bubbles": 120,
+            "coins": 120,
+            "gems": 1.6
+          },
+          "max": {
+            "bubbles": 162,
+            "coins": 162,
+            "gems": 2.16
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_enraged_phoenix.png",
+        "stats": {
+          "base": {
+            "bubbles": 180,
+            "coins": 180,
+            "gems": 2.4
+          },
+          "max": {
+            "bubbles": 222,
+            "coins": 222,
+            "gems": 2.96
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Elite Challenger",
+    "egg_id": "event",
+    "bubbles": 2350,
+    "coins": 3200,
+    "gems": 50,
+    "chance": "-",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/elite_challenger.png",
+        "stats": {
+          "base": {
+            "bubbles": 2350,
+            "coins": 3200,
+            "gems": 50.0
+          },
+          "max": {
+            "bubbles": 3172,
+            "coins": 4320,
+            "gems": 67.5
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_elite_challenger.png",
+        "stats": {
+          "base": {
+            "bubbles": 3525,
+            "coins": 4800,
+            "gems": 75.0
+          },
+          "max": {
+            "bubbles": 4348,
+            "coins": 5920,
+            "gems": 92.5
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Elite Soul",
+    "egg_id": "event",
+    "bubbles": 3000,
+    "coins": 3500,
+    "gems": 65,
+    "chance": "-",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/elite_soul.png",
+        "stats": {
+          "base": {
+            "bubbles": 3000,
+            "coins": 3500,
+            "gems": 65.0
+          },
+          "max": {
+            "bubbles": 4050,
+            "coins": 4725,
+            "gems": 87.75
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_elite_soul.png",
+        "stats": {
+          "base": {
+            "bubbles": 4500,
+            "coins": 5250,
+            "gems": 97.5
+          },
+          "max": {
+            "bubbles": 5550,
+            "coins": 6475,
+            "gems": 120
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_elite_soul.png",
+        "stats": {
+          "base": {
+            "bubbles": 5250,
+            "coins": 6125,
+            "gems": 114
+          },
+          "max": {
+            "bubbles": 6300,
+            "coins": 7350,
+            "gems": 136
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_elite_soul.png",
+        "stats": {
+          "base": {
+            "bubbles": 6750,
+            "coins": 7875,
+            "gems": 146
+          },
+          "max": {
+            "bubbles": 7800,
+            "coins": 9100,
+            "gems": 169
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Easter Fluffle",
+    "egg_id": "index",
+    "bubbles": 1075,
+    "coins": 1400,
+    "gems": 19,
+    "chance": "-",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/easter_fluffle.png",
+        "stats": {
+          "base": {
+            "bubbles": 1075,
+            "coins": 1400,
+            "gems": 19.0
+          },
+          "max": {
+            "bubbles": 1451,
+            "coins": 1890,
+            "gems": 25.65
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_easter_fluffle.png",
+        "stats": {
+          "base": {
+            "bubbles": 1612,
+            "coins": 2100,
+            "gems": 28.5
+          },
+          "max": {
+            "bubbles": 1989,
+            "coins": 2590,
+            "gems": 35.15
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Chocolate Bunny",
+    "egg_id": "index",
+    "bubbles": 1450,
+    "coins": 1950,
+    "gems": 25,
+    "chance": "-",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/chocolate_bunny.png",
+        "stats": {
+          "base": {
+            "bubbles": 1450,
+            "coins": 1950,
+            "gems": 25.0
+          },
+          "max": {
+            "bubbles": 1958,
+            "coins": 2632,
+            "gems": 33.75
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_chocolate_bunny.png",
+        "stats": {
+          "base": {
+            "bubbles": 2175,
+            "coins": 2925,
+            "gems": 37.5
+          },
+          "max": {
+            "bubbles": 2682,
+            "coins": 3608,
+            "gems": 46.25
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_chocolate_bunny.png",
+        "stats": {
+          "base": {
+            "bubbles": 2538,
+            "coins": 3412,
+            "gems": 43.75
+          },
+          "max": {
+            "bubbles": 3045,
+            "coins": 4095,
+            "gems": 52.5
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_chocolate_bunny.png",
+        "stats": {
+          "base": {
+            "bubbles": 3262,
+            "coins": 4388,
+            "gems": 56.25
+          },
+          "max": {
+            "bubbles": 3770,
+            "coins": 5070,
+            "gems": 65.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Flying Gem",
+    "egg_id": "robux",
+    "bubbles": 50,
+    "coins": 35,
+    "gems": 4.5,
+    "chance": "10%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/flying_gem.png",
+        "stats": {
+          "base": {
+            "bubbles": 50.0,
+            "coins": 35.0,
+            "gems": 4.5
+          },
+          "max": {
+            "bubbles": 67.5,
+            "coins": 47.25,
+            "gems": 6.08
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_flying_gem.png",
+        "stats": {
+          "base": {
+            "bubbles": 75.0,
+            "coins": 52.5,
+            "gems": 6.75
+          },
+          "max": {
+            "bubbles": 92.5,
+            "coins": 64.75,
+            "gems": 8.33
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Patronus",
+    "egg_id": "golden_box",
+    "bubbles": 2300,
+    "coins": 3250,
+    "gems": 50,
+    "chance": "0.01%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/patronus.png",
+        "stats": {
+          "base": {
+            "bubbles": 2300,
+            "coins": 3250,
+            "gems": 50.0
+          },
+          "max": {
+            "bubbles": 3105,
+            "coins": 4388,
+            "gems": 67.5
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_patronus.png",
+        "stats": {
+          "base": {
+            "bubbles": 3450,
+            "coins": 4875,
+            "gems": 75.0
+          },
+          "max": {
+            "bubbles": 4255,
+            "coins": 6012,
+            "gems": 92.5
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_patronus.png",
+        "stats": {
+          "base": {
+            "bubbles": 4025,
+            "coins": 5688,
+            "gems": 87.5
+          },
+          "max": {
+            "bubbles": 4830,
+            "coins": 6825,
+            "gems": 105
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_patronus.png",
+        "stats": {
+          "base": {
+            "bubbles": 5175,
+            "coins": 7312,
+            "gems": 112
+          },
+          "max": {
+            "bubbles": 5980,
+            "coins": 8450,
+            "gems": 130
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Abyssal Dragon",
+    "egg_id": "golden_chest",
+    "bubbles": 1250,
+    "coins": 1700,
+    "gems": 20,
+    "chance": "0.025%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/abyssal_dragon.png",
+        "stats": {
+          "base": {
+            "bubbles": 1250,
+            "coins": 1700,
+            "gems": 20.0
+          },
+          "max": {
+            "bubbles": 1688,
+            "coins": 2295,
+            "gems": 27.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_abyssal_dragon.png",
+        "stats": {
+          "base": {
+            "bubbles": 1875,
+            "coins": 2550,
+            "gems": 30.0
+          },
+          "max": {
+            "bubbles": 2312,
+            "coins": 3145,
+            "gems": 37.0
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_abyssal_dragon.png",
+        "stats": {
+          "base": {
+            "bubbles": 2188,
+            "coins": 2975,
+            "gems": 35.0
+          },
+          "max": {
+            "bubbles": 2625,
+            "coins": 3570,
+            "gems": 42.0
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_abyssal_dragon.png",
+        "stats": {
+          "base": {
+            "bubbles": 2812,
+            "coins": 3825,
+            "gems": 45.0
+          },
+          "max": {
+            "bubbles": 3250,
+            "coins": 4420,
+            "gems": 52.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Hacker Prism",
+    "egg_id": "royal_chest",
+    "bubbles": 1450,
+    "coins": 1850,
+    "gems": 22,
+    "chance": "0.025%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/hacker_prism.png",
+        "stats": {
+          "base": {
+            "bubbles": 1450,
+            "coins": 1850,
+            "gems": 22.0
+          },
+          "max": {
+            "bubbles": 1958,
+            "coins": 2498,
+            "gems": 29.7
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_hacker_prism.png",
+        "stats": {
+          "base": {
+            "bubbles": 2175,
+            "coins": 2775,
+            "gems": 33.0
+          },
+          "max": {
+            "bubbles": 2682,
+            "coins": 3422,
+            "gems": 40.7
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_hacker_prism.png",
+        "stats": {
+          "base": {
+            "bubbles": 2538,
+            "coins": 3238,
+            "gems": 38.5
+          },
+          "max": {
+            "bubbles": 3045,
+            "coins": 3885,
+            "gems": 46.2
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_hacker_prism.png",
+        "stats": {
+          "base": {
+            "bubbles": 3262,
+            "coins": 4162,
+            "gems": 49.5
+          },
+          "max": {
+            "bubbles": 3770,
+            "coins": 4810,
+            "gems": 57.2
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Trio Cube",
+    "egg_id": "index",
+    "bubbles": 1400,
+    "coins": 1950,
+    "gems": 23,
+    "chance": "-",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/trio_cube.png",
+        "stats": {
+          "base": {
+            "bubbles": 1400,
+            "coins": 1950,
+            "gems": 23.0
+          },
+          "max": {
+            "bubbles": 1890,
+            "coins": 2632,
+            "gems": 31.05
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_trio_cube.png",
+        "stats": {
+          "base": {
+            "bubbles": 2100,
+            "coins": 2925,
+            "gems": 34.5
+          },
+          "max": {
+            "bubbles": 2590,
+            "coins": 3608,
+            "gems": 42.55
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_trio_cube.png",
+        "stats": {
+          "base": {
+            "bubbles": 2450,
+            "coins": 3412,
+            "gems": 40.25
+          },
+          "max": {
+            "bubbles": 2940,
+            "coins": 4095,
+            "gems": 48.3
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_trio_cube.png",
+        "stats": {
+          "base": {
+            "bubbles": 3150,
+            "coins": 4388,
+            "gems": 51.75
+          },
+          "max": {
+            "bubbles": 3640,
+            "coins": 5070,
+            "gems": 59.8
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Holy Shock",
+    "egg_id": "quest",
+    "bubbles": 975,
+    "coins": 1300,
+    "gems": 15.5,
+    "chance": "-",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/holy_shock.png",
+        "stats": {
+          "base": {
+            "bubbles": 975,
+            "coins": 1300,
+            "gems": 15.5
+          },
+          "max": {
+            "bubbles": 1316,
+            "coins": 1755,
+            "gems": 20.93
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_holy_shock.png",
+        "stats": {
+          "base": {
+            "bubbles": 1462,
+            "coins": 1950,
+            "gems": 23.25
+          },
+          "max": {
+            "bubbles": 1804,
+            "coins": 2405,
+            "gems": 28.68
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Evil Shock",
+    "egg_id": "quest",
+    "bubbles": 975,
+    "coins": 1300,
+    "gems": 15,
+    "chance": "-",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/evil_shock.png",
+        "stats": {
+          "base": {
+            "bubbles": 975,
+            "coins": 1300,
+            "gems": 15.0
+          },
+          "max": {
+            "bubbles": 1316,
+            "coins": 1755,
+            "gems": 20.25
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_evil_shock.png",
+        "stats": {
+          "base": {
+            "bubbles": 1462,
+            "coins": 1950,
+            "gems": 22.5
+          },
+          "max": {
+            "bubbles": 1804,
+            "coins": 2405,
+            "gems": 27.75
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Sunburst",
+    "egg_id": "mystery_box",
+    "bubbles": 1300,
+    "coins": 1800,
+    "gems": 22,
+    "chance": "0.02%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/sunburst.png",
+        "stats": {
+          "base": {
+            "bubbles": 1300,
+            "coins": 1800,
+            "gems": 22.0
+          },
+          "max": {
+            "bubbles": 1755,
+            "coins": 2430,
+            "gems": 29.7
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_sunburst.png",
+        "stats": {
+          "base": {
+            "bubbles": 1950,
+            "coins": 2700,
+            "gems": 33.0
+          },
+          "max": {
+            "bubbles": 2405,
+            "coins": 3330,
+            "gems": 40.7
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_sunburst.png",
+        "stats": {
+          "base": {
+            "bubbles": 2275,
+            "coins": 3150,
+            "gems": 38.5
+          },
+          "max": {
+            "bubbles": 2730,
+            "coins": 3780,
+            "gems": 46.2
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_sunburst.png",
+        "stats": {
+          "base": {
+            "bubbles": 2925,
+            "coins": 4050,
+            "gems": 49.5
+          },
+          "max": {
+            "bubbles": 3380,
+            "coins": 4680,
+            "gems": 57.2
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Moonburst",
+    "egg_id": "mystery_box",
+    "bubbles": 1250,
+    "coins": 1700,
+    "gems": 20,
+    "chance": "0.01%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/moonburst.png",
+        "stats": {
+          "base": {
+            "bubbles": 1250,
+            "coins": 1700,
+            "gems": 20.0
+          },
+          "max": {
+            "bubbles": 1688,
+            "coins": 2295,
+            "gems": 27.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_moonburst.png",
+        "stats": {
+          "base": {
+            "bubbles": 1875,
+            "coins": 2550,
+            "gems": 30.0
+          },
+          "max": {
+            "bubbles": 2312,
+            "coins": 3145,
+            "gems": 37.0
+          }
+        }
+      },
+      {
+        "name": "Mythic",
+        "image": "https://hixand.xyz/mythic_moonburst.png",
+        "stats": {
+          "base": {
+            "bubbles": 2188,
+            "coins": 2975,
+            "gems": 35.0
+          },
+          "max": {
+            "bubbles": 2625,
+            "coins": 3570,
+            "gems": 42.0
+          }
+        }
+      },
+      {
+        "name": "Shiny Mythic",
+        "image": "https://hixand.xyz/shiny_mythic_moonburst.png",
+        "stats": {
+          "base": {
+            "bubbles": 2812,
+            "coins": 3825,
+            "gems": 45.0
+          },
+          "max": {
+            "bubbles": 3250,
+            "coins": 4420,
+            "gems": 52.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Umbra",
+    "egg_id": "wheel_spin",
+    "bubbles": 975,
+    "coins": 1300,
+    "gems": 15,
+    "chance": "0.1%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/umbra.png",
+        "stats": {
+          "base": {
+            "bubbles": 975,
+            "coins": 1300,
+            "gems": 15.0
+          },
+          "max": {
+            "bubbles": 1316,
+            "coins": 1755,
+            "gems": 20.25
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_umbra.png",
+        "stats": {
+          "base": {
+            "bubbles": 1462,
+            "coins": 1950,
+            "gems": 22.5
+          },
+          "max": {
+            "bubbles": 1804,
+            "coins": 2405,
+            "gems": 27.75
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Kitsune",
+    "egg_id": "playtime",
+    "bubbles": 1300,
+    "coins": 1800,
+    "gems": 22,
+    "chance": "0.002%",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/kitsune.png",
+        "stats": {
+          "base": {
+            "bubbles": 1300,
+            "coins": 1800,
+            "gems": 22.0
+          },
+          "max": {
+            "bubbles": 1755,
+            "coins": 2430,
+            "gems": 29.7
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_kitsune.png",
+        "stats": {
+          "base": {
+            "bubbles": 1950,
+            "coins": 2700,
+            "gems": 33.0
+          },
+          "max": {
+            "bubbles": 2405,
+            "coins": 3330,
+            "gems": 40.7
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Demonic Dogcat",
+    "egg_id": "quest",
+    "bubbles": 1300,
+    "coins": 1800,
+    "gems": 22,
+    "chance": "-",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/demonic_dogcat.png",
+        "stats": {
+          "base": {
+            "bubbles": 1300,
+            "coins": 1800,
+            "gems": 22.0
+          },
+          "max": {
+            "bubbles": 1755,
+            "coins": 2430,
+            "gems": 29.7
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_demonic_dogcat.png",
+        "stats": {
+          "base": {
+            "bubbles": 1950,
+            "coins": 2700,
+            "gems": 33.0
+          },
+          "max": {
+            "bubbles": 2405,
+            "coins": 3330,
+            "gems": 40.7
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Rainbow Blitz",
+    "egg_id": "quest",
+    "bubbles": 1250,
+    "coins": 1700,
+    "gems": 20,
+    "chance": "-",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/rainbow_blitz.png",
+        "stats": {
+          "base": {
+            "bubbles": 1250,
+            "coins": 1700,
+            "gems": 20.0
+          },
+          "max": {
+            "bubbles": 1688,
+            "coins": 2295,
+            "gems": 27.0
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_rainbow_blitz.png",
+        "stats": {
+          "base": {
+            "bubbles": 1875,
+            "coins": 2550,
+            "gems": 30.0
+          },
+          "max": {
+            "bubbles": 2312,
+            "coins": 3145,
+            "gems": 37.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "King Soul",
+    "egg_id": "quest",
+    "bubbles": 2225,
+    "coins": 3100,
+    "gems": 45,
+    "chance": "-",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/king_soul.png",
+        "stats": {
+          "base": {
+            "bubbles": 2225,
+            "coins": 3100,
+            "gems": 45.0
+          },
+          "max": {
+            "bubbles": 3004,
+            "coins": 4185,
+            "gems": 60.75
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_king_soul.png",
+        "stats": {
+          "base": {
+            "bubbles": 3338,
+            "coins": 4650,
+            "gems": 67.5
+          },
+          "max": {
+            "bubbles": 4116,
+            "coins": 5735,
+            "gems": 83.25
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pet_name": "Discord Imp",
+    "egg_id": "quest",
+    "bubbles": 25,
+    "coins": 20,
+    "gems": 2,
+    "chance": "-",
+    "title": "Legendary",
+    "variants": [
+      {
+        "name": "Normal",
+        "image": "https://hixand.xyz/discord_imp.png",
+        "stats": {
+          "base": {
+            "bubbles": 25.0,
+            "coins": 20.0,
+            "gems": 2.0
+          },
+          "max": {
+            "bubbles": 33.75,
+            "coins": 27.0,
+            "gems": 2.7
+          }
+        }
+      },
+      {
+        "name": "Shiny",
+        "image": "https://hixand.xyz/shiny_discord_imp.png",
+        "stats": {
+          "base": {
+            "bubbles": 37.5,
+            "coins": 30.0,
+            "gems": 3.0
+          },
+          "max": {
+            "bubbles": 46.25,
+            "coins": 37.0,
+            "gems": 3.7
+          }
+        }
+      }
+    ]
+  }
+]
